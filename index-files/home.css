@@ -1,0 +1,43 @@
+header{
+    text-align: center;
+    background-color: orange;
+    border: solid 3px orange;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0;
+}
+
+main{
+    background-color: ghostwhite;
+    max-width: 60%;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
+    min-height: 400px;
+}
+
+main h3{
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: solid 3px black;
+    margin-right: 120px;
+    margin-left: 120px;
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: orange;
+    border: solid 3px orange;
+    border-radius: 15px;
+}
+
+main ul{
+    background-color: powderblue;
+    border: solid 3px powderblue;
+    border-radius: 15px;
+    margin: 5px;
+}
