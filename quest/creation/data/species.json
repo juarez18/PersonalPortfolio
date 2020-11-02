@@ -1,0 +1,389 @@
+{"species":[
+
+    {
+        "name":"Bothans",
+        "Brawn": 1,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 3,
+        "Willpower": 2,
+        "Presence": 2,
+        "WoundThreshold": 10,
+        "StrainThreshold": 11,
+        "StartingExperience": 100,
+        "SpecialAbility": "Bothans begin the game with one rank in Streetwise. Also start with one rank in convincing Demeanor talent",
+        "info": "https://starwars.fandom.com/wiki/Bothan/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/0/03/BothanNEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20061130130400"
+    },
+
+    {
+        "name":"Droids",
+        "Brawn": 1,
+        "Agility": 1,
+        "Intellect": 1,
+        "Cunning": 1,
+        "Willpower": 1,
+        "Presence": 1,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 175,
+        "SpecialAbility": "Droids do not need to eat sleep or breathe and are unaffected by toxins and poisons. Droids have a cybernetic implant cap of 6 instead of their brawn rating. After selecting career a droid PC may train 6 of the 8 career skills. After choosing specialization may train 3 of 4 specialization skills. Inorgainic uses emergency repair kits instead of stims. Driods cannot become force users or acquire force ratings.",
+        "info" : "https://starwars.fandom.com/wiki/Droid/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c8/Counterparts.jpg/revision/latest/scale-to-width-down/250?cb=20070608122549"
+    },
+
+    {
+        "name":"Gands",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 3,
+        "Presence": 1,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 100,
+        "SpecialAbility": "Gands Begin the game with one rank in discipline. 2 sub species of gands lungs and lung-less. Lung less gain Ammonia respirator and treat oxygen has harmful atomsphere but gain 10xp",
+        "info": "https://starwars.fandom.com/wiki/Gand/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9a/GandAlienNEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20061205190815"
+    },
+
+    {
+        "name":"Humans",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 2,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 110,
+        "SpecialAbility": "Humans start the game with 2 differnet non-career skills of thier choice",
+        "info": "https://starwars.fandom.com/wiki/Human/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/5d/Humans-TESB30.jpg/revision/latest/scale-to-width-down/500?cb=20100628191857"
+    },
+
+    {
+        "name":"Rodians",
+        "Brawn": 2,
+        "Agility": 3,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 1,
+        "Presence": 2,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 100,
+        "SpecialAbility": "Rodians begin with 1 rank of Survival and start with Expert Tracker talent.",
+        "info": "https://starwars.fandom.com/wiki/Rodian/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/2/23/Rodian_NEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20061127015745"
+    },
+
+    {
+        "name":"Trandoshans",
+        "Brawn": 3,
+        "Agility": 1,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 2,
+        "WoundThreshold": 12,
+        "StrainThreshold": 9,
+        "StartingExperience": 90,
+        "SpecialAbility": "Trandoshans begin with 1 rank of Preception, Regeneration:Whenever would recover wounds from natural rest of bacta tank recover an additonal wound. Does not recover from medical treatments or stims. Trandoshans can regrow limbs although takes a month before even usable. Claws: When making brawl checks deals +1 damage and has crit of 3.",
+        "info": "https://starwars.fandom.com/wiki/Trandoshan/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/45/Trandoshan_NEGAS.png/revision/latest/scale-to-width-down/500?cb=20130115031110"
+    },
+
+    {
+        "name":"Twi'Leks",
+        "Brawn": 1,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 3,
+        "WoundThreshold": 10,
+        "StrainThreshold": 11,
+        "StartingExperience": 100,
+        "SpecialAbility": "Twl'leks start with 1 rank in either charm or deception. Can remove setbacks imposed due to hot or arid conditions.",
+        "info": "https://starwars.fandom.com/wiki/Twi%27lek/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/95/TwilekNEGAS.png/revision/latest/scale-to-width-down/500?cb=20150523023715"
+    },
+
+    {
+        "name":"Wookies",
+        "Brawn": 3,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 1,
+        "Presence": 2,
+        "WoundThreshold": 14,
+        "StrainThreshold": 8,
+        "StartingExperience": 90,
+        "SpecialAbility": "Wookies begin the game with 1 rank in brawl. Wookie Rage: When suffered any wounds deal +1 damage on brawl or melee attacks, +2 if critically injured",
+        "info": "https://starwars.fandom.com/wiki/Wookiee/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Wookiee_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20090711201859"
+    },
+
+    {
+        "name":"Besalisk",
+        "Brawn": 3,
+        "Agility": 1,
+        "Intellect": 2,
+        "Cunning": 1,
+        "Willpower": 2,
+        "Presence": 2,
+        "WoundThreshold": 12,
+        "StrainThreshold": 7,
+        "StartingExperience": 85,
+        "SpecialAbility": "Besalisk begin the game with 1 rank of Resilience. Besalisks have multiple sets of arms. As a result they gain an additional free maneuver per turn, though still may not perform more than 2 maneuvers.",
+        "info": "https://starwars.fandom.com/wiki/Besalisk/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1b/BesaliskNEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20130908201429"
+    },
+
+    {
+        "name":"Dug",
+        "Brawn": 2,
+        "Agility": 3,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 9,
+        "StrainThreshold": 8,
+        "StartingExperience": 90,
+        "SpecialAbility": "Dugs begin the game with one rank in Brawl. Begin the game with Defensive Driving Talent",
+        "info": "https://starwars.fandom.com/wiki/Dug/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bd/Dug_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20090709061842"
+    },
+
+    {
+        "name":"Mustafarian",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 100,
+        "SpecialAbility": "Northern Mustafarian: Remove 2 setbacks from checks to resist arid or hot enviromental conditions. Gain one rank in the Eye for Detail talent. Sourthern Mustafarian: remove 2 setbacks for arid or hot enviromental conditions. Gain Enduring talent.",
+        "info": "https://starwars.fandom.com/wiki/Mustafarian/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/ec/Mustafarian_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20061201140518"
+    },
+
+    {
+        "name":"Aqualish",
+        "Brawn": 3,
+        "Agility": 2,
+        "Intellect": 1,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 2,
+        "WoundThreshold": 11,
+        "StrainThreshold": 8,
+        "StartingExperience": 90,
+        "SpecialAbility": "Aqualish can breathe underwater and gain one rank of Brawl additionally gain one for sub-species Aquala: Begin with 1 rank in Resilience, remove a setback due to cold or wet conditions. Ualaq: begin with 1 rank of Survival or Perception. May remove 1 setback due to dark conditions but gain 1 setback for bright condtions. Quara: gain 1 rank in athletics or Coercion. May remove setback when attempting to track anything through a natural enviroment",
+        "info":"https://starwars.fandom.com/wiki/Aqualish/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4b/Aqualish-NEGAS.png/revision/latest/scale-to-width-down/499?cb=20200704031733"
+    },
+
+    {
+        "name":"Klatooinian",
+        "Brawn": 2,
+        "Agility": 3,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 1,
+        "Presence": 2,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 100,
+        "SpecialAbility": "Klatooinians begin with either brawl or Ranged(heavy) or Ranged(light). Start 1 rank of one non-career skill.",
+        "info": "https://starwars.fandom.com/wiki/Klatooinian/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Klatooinian_DC.png/revision/latest/scale-to-width-down/500?cb=20160922025219"
+    },
+
+    {
+        "name":"Weequay",
+        "Brawn": 3,
+        "Agility": 2,
+        "Intellect": 1,
+        "Cunning": 3,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 10,
+        "StrainThreshold": 9,
+        "StartingExperience": 90,
+        "SpecialAbility": "Weequay begin with Resilience or Athletics, Weequay can communicate with other Weequays using pheromones. This is completely non-verbal, an undetectable to any other species nearby. Only can communicate in short range.",
+        "info": "https://starwars.fandom.com/wiki/Weequay/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4d/Weequay_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20061130133637"
+    },
+
+    {
+        "name":"Hutts",
+        "Brawn": 3,
+        "Agility": 1,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 3,
+        "Presence": 2,
+        "WoundThreshold": 13,
+        "StrainThreshold": 11,
+        "StartingExperience": 70,
+        "SpecialAbility": "Hutts begin the game with 1 rank in Enduring Talent and one rank of Nobody's Fool talents. Hutts begin game with one rank of Coercion or Discipline. Ponderous: A hutt can never spend more than 1 maneuver moving per turn.",
+        "info": "https://starwars.fandom.com/wiki/Hutt/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a7/HuttNEGAS.png/revision/latest/scale-to-width-down/500?cb=20130115030417"
+    },
+
+    {
+        "name":"Ganks",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 110,
+        "SpecialAbility": "Ganks begin the game with 1 rank in Coercion or Vigilance. Cyborg: All Ganks are cyborgs. A Gank begins play with up to 2 cybernetics that a total of up to 5,000 credits. Ganks have an implant cap of 3 plus brawn.",
+        "info": "https://starwars.fandom.com/wiki/Gank/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/Gank_LoNH.png/revision/latest/scale-to-width-down/200?cb=20150928004350"
+    },
+
+    {
+        "name":"Niktos",
+        "Brawn": 3,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 11,
+        "StrainThreshold": 10,
+        "StartingExperience": 100,
+        "SpecialAbility": "Red: 1 rank of Resilence may remove setback due to hot or arid conditions. Green Niktos: 1 rank of Coodination. Gain bosot die to athletics chcks to climb trees and other surfaces their claws can pentrate, Claws: +1 damage and crit rating of 3. Mountain: gain 1 rank of Survival. Gain Natural Outdoorsman talent. Pale: Gain 1 rank of Athletics, Swimmer: never suffers movement penalties fro traveling through water and can hold breath for number of rounds twice hie brawn rating. Southern: 1 rank of perception and gain boost to perception and vigilance checks to deteck sounds.",
+        "info": "https://starwars.fandom.com/wiki/Nikto/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d4/Nikto.jpg/revision/latest/scale-to-width-down/500?cb=20181126234617"
+    },
+
+    {
+        "name":"Sakiyans",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 3,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 2,
+        "WoundThreshold": 8,
+        "StrainThreshold": 10,
+        "StartingExperience": 80,
+        "SpecialAbility": "Begin with 1 rank in Perception or Vigilance. Also start with 1 rank of expert tracker.",
+        "info":"https://starwars.fandom.com/wiki/Sakiyan/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Female_Sakiyan_LoNH.png/revision/latest/scale-to-width-down/178?cb=20200623054545"
+    },
+
+    {
+        "name":"Falleen",
+        "Brawn": 1,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 3,
+        "WoundThreshold": 10,
+        "StrainThreshold": 12,
+        "StartingExperience": 90,
+        "SpecialAbility": "begin with 1 rank of Charm. Beguiling Pheromones: can suffer 2 strain to upgrade ability of Charm, Deception or Negotiation check against sentient being in short range.",
+        "info": "https://starwars.fandom.com/wiki/Falleen/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Falleen_Outlaw.jpg/revision/latest/scale-to-width-down/499?cb=20090506010245"
+    },
+
+    {
+        "name":"Gotal",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 3,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 9,
+        "StrainThreshold": 8,
+        "StartingExperience": 100,
+        "SpecialAbility": "Start with 1 rank in perception. Energy Sensitivity: Once per encounter as a manuever may sense the presence and current emotional states of all living things in a short range.",
+        "info": "https://starwars.fandom.com/wiki/Gotal/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fe/Gotal_AA.jpg/revision/latest/scale-to-width-down/500?cb=20060620164901"
+    },
+
+    {
+        "name":"Quarren",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 1,
+        "Cunning": 2,
+        "Willpower": 3,
+        "Presence": 2,
+        "WoundThreshold": 10,
+        "StrainThreshold": 8,
+        "StartingExperience": 95,
+        "SpecialAbility": "Begin with 1 rank of negotiation, Amphibious: can breathe underwater without penalty and never suffer movement penalty traveling through water. Ink Spray: Once per encounter as an out of turn incidental may suffer 2 strain to add 1 setback to a combat check made within short range, in water add 3 setback.",
+        "info":"https://starwars.fandom.com/wiki/Quarren/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a7/Quarren_AoRSR.png/revision/latest/scale-to-width-down/500?cb=20190224045302"
+    },
+
+    {
+        "name":"Clawdite",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 3,
+        "Willpower": 1,
+        "Presence": 2,
+        "WoundThreshold": 9,
+        "StrainThreshold": 9,
+        "StartingExperience": 95,
+        "SpecialAbility": "Begin the game with 1 rank in Resilience, Changeling: as an action may suffer 3 strain and an average resilience check. If success changes apperance to match that of a silhourtte 1 character whom has observed before.",
+        "info":"https://starwars.fandom.com/wiki/Clawdite/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/ClawditeNEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20090709061818"
+    },
+
+    {
+        "name":"Devaronian",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 3,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 11,
+        "StrainThreshold": 10,
+        "StartingExperience": 95,
+        "SpecialAbility": "start with 1 rank in survival or deception. Resilient Metabolism: Add automatic success to all resilience checks.",
+        "info":"https://starwars.fandom.com/wiki/Devaronian/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/55/DevaronianNEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20100616044458"
+    },
+
+    {
+        "name":"Kalleran",
+        "Brawn": 3,
+        "Agility": 2,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 8,
+        "StrainThreshold": 12,
+        "StartingExperience": 90,
+        "SpecialAbility": "Kallerans begin with 1 rank of streetwise. Hypersensitive Antennae: begin with Heightened Awareness Talent.",
+        "info":"https://starwars.fandom.com/wiki/Kalleran",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7d/Kalleran.png/revision/latest?cb=20161129233034"
+    }
+]
+
+
+}
