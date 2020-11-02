@@ -2,15 +2,15 @@
     
     {
         "label": "Star Wars RPG Information Site",
-        "url": "",
-        "description": ""
+        "url": "https://juarez18.github.io/PersonalPortfolio/quest/index.html",
+        "description": "A site for my friends to use information to run roleplaying sessions"
     }
     ,
     {
-        "label": "Week 2 notes",
-        "url" : "",
-        "description": ""
-    },
+        "label": "Putting Practice",
+        "url" : "https://juarez18.github.io/PersonalPortfolio/puttingpractice/index.html",
+        "description": "An application to practice disc golf putting"
+    }
 
 ]
 
