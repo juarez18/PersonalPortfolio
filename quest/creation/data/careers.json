@@ -4,16 +4,16 @@
         "skill1": "Athletics",
         "skill2": "Brawl",
         "skill3": "Perception",
-        "skill4": "Piloting(Planetay)",
-        "skill5": "Piloting(Space)",
-        "skill6": "Ranged(Heavy)",
+        "skill4": "Piloting (Planetay)",
+        "skill5": "Piloting (Space)",
+        "skill6": "Ranged (Heavy)",
         "skill7": "Streetwise",
         "skill8": "Vigilance",
         "specializations":[
             {
                 "name":"Assassin",
                 "bonusSkill1": "Melee",
-                "bonusSkill2": "Ranged(Heavy)",
+                "bonusSkill2": "Ranged (Heavy)",
                 "bonusSkill3": "Skulduggery",
                 "bonusSkill4": "Stealth",
                 "talentTree": "/quest/creation/pdfs/assassin.pdf"
@@ -24,12 +24,12 @@
                 "bonusSkill1": "Brawl",
                 "bonusSkill2": "Coercion",
                 "bonusSkill3": "Mechanics",
-                "bonusSkill4": "Ranged(light)",
+                "bonusSkill4": "Ranged (Light)",
                 "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
             },
             {
                 "name":"Survivalist",
-                "bonusSkill1": "Knowledge(Xenology)",
+                "bonusSkill1": "Knowledge (Xenology)",
                 "bonusSkill2": "Perception",
                 "bonusSkill3": "Resilience",
                 "bonusSkill4": "Survival",
@@ -47,20 +47,283 @@
                 "name":"Operator",
                 "bonusSkill1": "Astrogation",
                 "bonusSkill2": "Gunnery",
-                "bonusSkill3": "Piloting(planetary)",
-                "bonusSkill4": "Piloting(Space)",
+                "bonusSkill3": "Piloting (Planetary)",
+                "bonusSkill4": "Piloting (Space)",
                 "talentTree": "/quest/creation/pdfs/operator.pdf"
             },
             {
                 "name":"Skip Tracer",
                 "bonusSkill1": "Cool",
-                "bonusSkill2": "Knowledge(Underworld)",
+                "bonusSkill2": "Knowledge (Underworld)",
                 "bonusSkill3": "Negotiation",
                 "bonusSkill4": "Skulduggery",
                 "talentTree": "/quest/creation/pdfs/skipTracer.pdf"
             }
         ]
-    }
+    },
+    {
+        "career": "The Colonist",
+        "skill1": "Charm",
+        "skill2": "Deception",
+        "skill3": "Knowledge (Core Worlds)",
+        "skill4": "Knowledge (Education)",
+        "skill5": "Knowledge (Lore)",
+        "skill6": "Leadership",
+        "skill7": "Negotiation",
+        "skill8": "Streetwise",
+        "specializations":[
+            {
+                "name":"Doctor",
+                "bonusSkill1": "Cool",
+                "bonusSkill2": "Knowledge (Education)",
+                "bonusSkill3": "Medicine",
+                "bonusSkill4": "Resilience",
+                "talentTree": "/quest/creation/pdfs/assassin.pdf"
+            },
+
+            {
+                "name":"Politico",
+                "bonusSkill1": "Charm",
+                "bonusSkill2": "Coercion",
+                "bonusSkill3": "Deception",
+                "bonusSkill4": "Knowledge (Core Worlds)",
+                "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+            },
+            {
+                "name":"Scholar",
+                "bonusSkill1": "Knowledge (Outer Rim)",
+                "bonusSkill2": "Knowledge (Underworld)",
+                "bonusSkill3": "Knowledge (Xenology)",
+                "bonusSkill4": "Perception",
+                "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+            }
+        ]
+    },
+            {
+                "career": "The Explorer",
+                "skill1": "Astrogation",
+                "skill2": "Cool",
+                "skill3": "Knowledge (Lore)",
+                "skill4": "Knowledge (Outer Rim)",
+                "skill5": "Knowledge (Xenology)",
+                "skill6": "Perception",
+                "skill7": "Piloting (Space)",
+                "skill8": "Survival",
+                "specializations":[
+                    {
+                        "name":"Fringer",
+                        "bonusSkill1": "Astrogation",
+                        "bonusSkill2": "Coordination",
+                        "bonusSkill3": "Negotiation",
+                        "bonusSkill4": "Streetwise",
+                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                    },
+        
+                    {
+                        "name":"Scout",
+                        "bonusSkill1": "Athletics",
+                        "bonusSkill2": "Medicine",
+                        "bonusSkill3": "Piloting (Planetary)",
+                        "bonusSkill4": "Survival",
+                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                    },
+                    {
+                        "name":"Trader",
+                        "bonusSkill1": "Deception",
+                        "bonusSkill2": "Knowledge (Core Worlds)",
+                        "bonusSkill3": "Knowledge (Underworld)",
+                        "bonusSkill4": "Negotiation",
+                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                    }
+                ]
+            },
+            {
+                "career": "The Hired Gun",
+                "skill1": "Athletics",
+                "skill2": "Brawl",
+                "skill3": "Discipline",
+                "skill4": "Piloting(Planetay)",
+                "skill5": "Melee",
+                "skill6": "Ranged (Light)",
+                "skill7": "Resilience",
+                "skill8": "Vigilance",
+                "specializations":[
+                    {
+                        "name": "Bodyguard",
+                        "bonusSkill1": "Gunnery",
+                        "bonusSkill2": "Perception",
+                        "bonusSkill3": "Piloting (Planetary)",
+                        "bonusSkill4": "Ranged (Heavy)",
+                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                    },
+        
+                    {
+                        "name":"Marauder",
+                        "bonusSkill1": "Melee",
+                        "bonusSkill2": "Coercion",
+                        "bonusSkill3": "Resilience",
+                        "bonusSkill4": "Survival",
+                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                    },
+                    {
+                        "name":"Mercenary",
+                        "bonusSkill1": "Discipline",
+                        "bonusSkill2": "Gunnery",
+                        "bonusSkill3": "Leadership",
+                        "bonusSkill4": "Ranged (Heavy)",
+                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                    },
+                    {
+                        "name":"Enforcer",
+                        "bonusSkill1": "Brawl",
+                        "bonusSkill2": "Coercion",
+                        "bonusSkill3": "Knowledge (Underworld)",
+                        "bonusSkill4": "Streetwise",
+                        "talentTree": "/quest/creation/pdfs/martialArtist.pdf"
+                    },
+                    {
+                        "name":"Demolitionist",
+                        "bonusSkill1": "Computers",
+                        "bonusSkill2": "Cool",
+                        "bonusSkill3": "Mechanics",
+                        "bonusSkill4": "Skulduggery",
+                        "talentTree": "/quest/creation/pdfs/operator.pdf"
+                    },
+                    {
+                        "name":"Heavy",
+                        "bonusSkill1": "Gunnery",
+                        "bonusSkill2": "Perception",
+                        "bonusSkill3": "Ranged (Heavy)",
+                        "bonusSkill4": "Resilience",
+                        "talentTree": "/quest/creation/pdfs/skipTracer.pdf"
+                    }
+                ]
+            },
+            {
+                "career": "Smuggler",
+                "skill1": "Coordination",
+                "skill2": "Deception",
+                "skill3": "Knowledge (Underworld)",
+                "skill4": "Perception",
+                "skill5": "Piloting (Space)",
+                "skill6": "Skulduggery",
+                "skill7": "Streetwise",
+                "skill8": "Vigilance",
+                "specializations":[
+                    {
+                        "name":"Pilot",
+                        "bonusSkill1": "Astrogation",
+                        "bonusSkill2": "Gunnery",
+                        "bonusSkill3": "Piloting (Planetary)",
+                        "bonusSkill4": "Piloting (Space)",
+                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                    },
+        
+                    {
+                        "name":"Scoundrel",
+                        "bonusSkill1": "Charm",
+                        "bonusSkill2": "Cool",
+                        "bonusSkill3": "Deception",
+                        "bonusSkill4": "Ranged (Light)",
+                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                    },
+                    {
+                        "name":"Thief",
+                        "bonusSkill1": "Computers",
+                        "bonusSkill2": "Skulduggery",
+                        "bonusSkill3": "Stealth",
+                        "bonusSkill4": "Vigliance",
+                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                    },
+                    {
+                        "name":"Charmer",
+                        "bonusSkill1": "Charm",
+                        "bonusSkill2": "Cool",
+                        "bonusSkill3": "Leadership",
+                        "bonusSkill4": "Negotiation",
+                        "talentTree": "/quest/creation/pdfs/martialArtist.pdf"
+                    },
+                    {
+                        "name":"Gambler",
+                        "bonusSkill1": "Computers",
+                        "bonusSkill2": "Cool",
+                        "bonusSkill3": "Deception",
+                        "bonusSkill4": "Skulduggery",
+                        "talentTree": "/quest/creation/pdfs/operator.pdf"
+                    },
+                    {
+                        "name":"Gunslinger",
+                        "bonusSkill1": "Coercion",
+                        "bonusSkill2": "Cool",
+                        "bonusSkill3": "Knowledge (Outer Rim)",
+                        "bonusSkill4": "Ranged (Light)",
+                        "talentTree": "/quest/creation/pdfs/skipTracer.pdf"
+                    }
+                ]
+            },
+            {
+                "career": "The Technician",
+                "skill1": "Astrogation",
+                "skill2": "Computers",
+                "skill3": "Coordination",
+                "skill4": "Discipline",
+                "skill5": "Knowledge (Outer Rim)",
+                "skill6": "Mechanics",
+                "skill7": "Perception",
+                "skill8": "Piloting (Planetary)",
+                "specializations":[
+                    {
+                        "name":"Mechanic",
+                        "bonusSkill1": "Brawl",
+                        "bonusSkill2": "Mechanics",
+                        "bonusSkill3": "Piloting (Space)",
+                        "bonusSkill4": "Skulduggery",
+                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                    },
+        
+                    {
+                        "name":"Outlaw Tech",
+                        "bonusSkill1": "Knowledge (Education)",
+                        "bonusSkill2": "Knowledge (Underworld)",
+                        "bonusSkill3": "Mechanics",
+                        "bonusSkill4": "Streetwise",
+                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                    },
+                    {
+                        "name":"Slicer",
+                        "bonusSkill1": "Computers",
+                        "bonusSkill2": "Knowledge (Education)",
+                        "bonusSkill3": "Knowledge (Underworld)",
+                        "bonusSkill4": "Stealth",
+                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                    },
+                    {
+                        "name":"Cyber Tech",
+                        "bonusSkill1": "Athletics",
+                        "bonusSkill2": "Mechanics",
+                        "bonusSkill3": "Medicine",
+                        "bonusSkill4": "Vigliance",
+                        "talentTree": "/quest/creation/pdfs/martialArtist.pdf"
+                    },
+                    {
+                        "name":"Droid Tech",
+                        "bonusSkill1": "Computers",
+                        "bonusSkill2": "Cool",
+                        "bonusSkill3": "Mechanics",
+                        "bonusSkill4": "Leadership",
+                        "talentTree": "/quest/creation/pdfs/operator.pdf"
+                    },
+                    {
+                        "name":"Modder",
+                        "bonusSkill1": "Gunnery",
+                        "bonusSkill2": "Mechanics",
+                        "bonusSkill3": "Piloting (Space)",
+                        "bonusSkill4": "Streetwise",
+                        "talentTree": "/quest/creation/pdfs/skipTracer.pdf"
+                    }
+                ]
+            }
+            
 ]
 
 
