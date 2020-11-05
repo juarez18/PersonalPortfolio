@@ -1,4 +1,4 @@
-const requestURL = '/quest/creation/data/species.json';
+const requestURL = 'data/species.json';
 
 fetch(requestURL)
   .then(function (response) {
