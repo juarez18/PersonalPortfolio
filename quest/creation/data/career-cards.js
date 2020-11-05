@@ -1,4 +1,4 @@
-const requestURL = 'careers.json';
+const requestURL = 'data/careers.json';
 
 fetch(requestURL)
   .then(function (response) {
