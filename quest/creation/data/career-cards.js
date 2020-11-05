@@ -1,4 +1,4 @@
-const requestURL = '/quest/creation/data/careers.json';
+const requestURL = 'quest/creation/data/careers.json';
 
 fetch(requestURL)
   .then(function (response) {

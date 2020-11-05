@@ -1,4 +1,4 @@
-@import "quest\css\basic.css";
+@import "quest/css/basic.css";
 
 section{
     border: 3px solid ghostwhite;
@@ -27,3 +27,4 @@ section div{
     padding: 10px;
     margin: 10px;
 }
+
