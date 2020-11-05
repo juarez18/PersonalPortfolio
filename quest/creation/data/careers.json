@@ -78,7 +78,7 @@
                 "bonusSkill2": "Knowledge (Education)",
                 "bonusSkill3": "Medicine",
                 "bonusSkill4": "Resilience",
-                "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                "talentTree": "pdfs/doctor.pdf"
             },
 
             {
@@ -87,7 +87,7 @@
                 "bonusSkill2": "Coercion",
                 "bonusSkill3": "Deception",
                 "bonusSkill4": "Knowledge (Core Worlds)",
-                "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                "talentTree": "pdfs/politico.pdf"
             },
             {
                 "name":"Scholar",
@@ -95,7 +95,7 @@
                 "bonusSkill2": "Knowledge (Underworld)",
                 "bonusSkill3": "Knowledge (Xenology)",
                 "bonusSkill4": "Perception",
-                "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                "talentTree": "pdfs/scholar.pdf"
             }
         ]
     },
@@ -116,7 +116,7 @@
                         "bonusSkill2": "Coordination",
                         "bonusSkill3": "Negotiation",
                         "bonusSkill4": "Streetwise",
-                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                        "talentTree": "pdfs/fringer.pdf"
                     },
         
                     {
@@ -125,7 +125,7 @@
                         "bonusSkill2": "Medicine",
                         "bonusSkill3": "Piloting (Planetary)",
                         "bonusSkill4": "Survival",
-                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                        "talentTree": "pdfs/scout.pdf"
                     },
                     {
                         "name":"Trader",
@@ -133,7 +133,7 @@
                         "bonusSkill2": "Knowledge (Core Worlds)",
                         "bonusSkill3": "Knowledge (Underworld)",
                         "bonusSkill4": "Negotiation",
-                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                        "talentTree": "pdfs/trader.pdf"
                     }
                 ]
             },
@@ -154,7 +154,7 @@
                         "bonusSkill2": "Perception",
                         "bonusSkill3": "Piloting (Planetary)",
                         "bonusSkill4": "Ranged (Heavy)",
-                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                        "talentTree": "pdfs/bodyguard.pdf"
                     },
         
                     {
@@ -163,7 +163,7 @@
                         "bonusSkill2": "Coercion",
                         "bonusSkill3": "Resilience",
                         "bonusSkill4": "Survival",
-                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                        "talentTree": "pdfs/marauder.pdf"
                     },
                     {
                         "name":"Mercenary",
@@ -171,7 +171,7 @@
                         "bonusSkill2": "Gunnery",
                         "bonusSkill3": "Leadership",
                         "bonusSkill4": "Ranged (Heavy)",
-                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                        "talentTree": "pdfs/mercenary.pdf"
                     },
                     {
                         "name":"Enforcer",
@@ -179,7 +179,7 @@
                         "bonusSkill2": "Coercion",
                         "bonusSkill3": "Knowledge (Underworld)",
                         "bonusSkill4": "Streetwise",
-                        "talentTree": "/quest/creation/pdfs/martialArtist.pdf"
+                        "talentTree": "pdfs/enforcer.pdf"
                     },
                     {
                         "name":"Demolitionist",
@@ -187,7 +187,7 @@
                         "bonusSkill2": "Cool",
                         "bonusSkill3": "Mechanics",
                         "bonusSkill4": "Skulduggery",
-                        "talentTree": "/quest/creation/pdfs/operator.pdf"
+                        "talentTree": "pdfs/demolitionist.pdf"
                     },
                     {
                         "name":"Heavy",
@@ -195,7 +195,7 @@
                         "bonusSkill2": "Perception",
                         "bonusSkill3": "Ranged (Heavy)",
                         "bonusSkill4": "Resilience",
-                        "talentTree": "/quest/creation/pdfs/skipTracer.pdf"
+                        "talentTree": "pdfs/heavy.pdf"
                     }
                 ]
             },
@@ -216,7 +216,7 @@
                         "bonusSkill2": "Gunnery",
                         "bonusSkill3": "Piloting (Planetary)",
                         "bonusSkill4": "Piloting (Space)",
-                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                        "talentTree": "pdfs/pilot.pdf"
                     },
         
                     {
@@ -225,7 +225,7 @@
                         "bonusSkill2": "Cool",
                         "bonusSkill3": "Deception",
                         "bonusSkill4": "Ranged (Light)",
-                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                        "talentTree": "pdfs/scoundrel.pdf"
                     },
                     {
                         "name":"Thief",
@@ -233,7 +233,7 @@
                         "bonusSkill2": "Skulduggery",
                         "bonusSkill3": "Stealth",
                         "bonusSkill4": "Vigliance",
-                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                        "talentTree": "pdfs/thief.pdf"
                     },
                     {
                         "name":"Charmer",
@@ -241,7 +241,7 @@
                         "bonusSkill2": "Cool",
                         "bonusSkill3": "Leadership",
                         "bonusSkill4": "Negotiation",
-                        "talentTree": "/quest/creation/pdfs/martialArtist.pdf"
+                        "talentTree": "pdfs/charmer.pdf"
                     },
                     {
                         "name":"Gambler",
@@ -249,7 +249,7 @@
                         "bonusSkill2": "Cool",
                         "bonusSkill3": "Deception",
                         "bonusSkill4": "Skulduggery",
-                        "talentTree": "/quest/creation/pdfs/operator.pdf"
+                        "talentTree": "pdfs/gambler.pdf"
                     },
                     {
                         "name":"Gunslinger",
@@ -257,7 +257,7 @@
                         "bonusSkill2": "Cool",
                         "bonusSkill3": "Knowledge (Outer Rim)",
                         "bonusSkill4": "Ranged (Light)",
-                        "talentTree": "/quest/creation/pdfs/skipTracer.pdf"
+                        "talentTree": "pdfs/gunslinger.pdf"
                     }
                 ]
             },
@@ -278,7 +278,7 @@
                         "bonusSkill2": "Mechanics",
                         "bonusSkill3": "Piloting (Space)",
                         "bonusSkill4": "Skulduggery",
-                        "talentTree": "/quest/creation/pdfs/assassin.pdf"
+                        "talentTree": "pdfs/mechanic.pdf"
                     },
         
                     {
@@ -287,7 +287,7 @@
                         "bonusSkill2": "Knowledge (Underworld)",
                         "bonusSkill3": "Mechanics",
                         "bonusSkill4": "Streetwise",
-                        "talentTree": "/quest/creation/pdfs/gadeteer.pdf"
+                        "talentTree": "pdfs/outlawTech.pdf"
                     },
                     {
                         "name":"Slicer",
@@ -295,7 +295,7 @@
                         "bonusSkill2": "Knowledge (Education)",
                         "bonusSkill3": "Knowledge (Underworld)",
                         "bonusSkill4": "Stealth",
-                        "talentTree": "/quest/creation/pdfs/survivalist.pdf"
+                        "talentTree": "pdfs/slicer.pdf"
                     },
                     {
                         "name":"Cyber Tech",
@@ -303,7 +303,7 @@
                         "bonusSkill2": "Mechanics",
                         "bonusSkill3": "Medicine",
                         "bonusSkill4": "Vigliance",
-                        "talentTree": "/quest/creation/pdfs/martialArtist.pdf"
+                        "talentTree": "pdfs/cyberTech.pdf"
                     },
                     {
                         "name":"Droid Tech",
@@ -311,7 +311,7 @@
                         "bonusSkill2": "Cool",
                         "bonusSkill3": "Mechanics",
                         "bonusSkill4": "Leadership",
-                        "talentTree": "/quest/creation/pdfs/operator.pdf"
+                        "talentTree": "pdfs/droidTech.pdf"
                     },
                     {
                         "name":"Modder",
@@ -319,7 +319,7 @@
                         "bonusSkill2": "Mechanics",
                         "bonusSkill3": "Piloting (Space)",
                         "bonusSkill4": "Streetwise",
-                        "talentTree": "/quest/creation/pdfs/skipTracer.pdf"
+                        "talentTree": "pdfs/modder.pdf"
                     }
                 ]
             }
