@@ -1,0 +1,3 @@
+@import "css/largeStyles.css";
+@import "css/smallStyles.css" screen and (max-width: 750px);
+
