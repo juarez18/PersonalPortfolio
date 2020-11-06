@@ -72,7 +72,7 @@ table, th, td {
   @media only screen and (max-width: 750px){
     main section{
         display: block;
-        max-width: 90%;
+        max-width: 100%;
     }
 
     section img{
