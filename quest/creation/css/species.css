@@ -68,3 +68,17 @@ table, th, td {
   td{
       background-color: ghostwhite;
   }
+
+  @media only screen and (max-width: 750px){
+    main section{
+        display: block;
+        max-width: 90%;
+    }
+
+    section img{
+        max-width: 150px;
+        max-height: 150px;
+        margin-right: 45%;
+        margin-left: 35%;
+    }
+}
