@@ -81,4 +81,9 @@ table, th, td {
         margin-right: 45%;
         margin-left: 35%;
     }
+
+    main{
+        max-width: 100%;
+        padding: 0;
+    }
 }
