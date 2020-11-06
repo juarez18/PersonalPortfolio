@@ -14,7 +14,9 @@ fetch(requestURL)
         let p3 = document.createElement("p");
         h2.textContent = careers[i].career;
         p1.textContent = "Career Skills: " + careers[i].skill1 + ", " + careers[i].skill2 + ", " + careers[i].skill3 + ", " + careers[i].skill4 + ", "  + careers[i].skill5 + ", "+ careers[i].skill6 + ", " + careers[i].skill7 + ", " + careers[i].skill8 + ".";
-        p3.textContent = careers[i].description
+        p3.textContent = careers[i].description;
+        p3.setAttribute("class", "description")
+        p1.setAttribute("class", "skills")
 
         card.appendChild(h2);
         card.appendChild(p1);
