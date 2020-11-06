@@ -42,6 +42,7 @@ table, th, td {
 
   table{
       margin: auto;
+      margin-top: 10px;
   }
 
   main section div{
@@ -58,4 +59,12 @@ table, th, td {
 
   main section p , a{
       padding: 10px;
+  }
+
+  th{
+      background-color: lightskyblue;
+  }
+
+  td{
+      background-color: ghostwhite;
   }
