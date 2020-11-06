@@ -1,0 +1,48 @@
+@import "basic.css";
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    margin-top: 10px;
+}
+
+th {
+    background-color: lightskyblue;
+}
+
+td {
+    background-color: ghostwhite;
+}
+
+h3{
+    text-align: center;
+}
+
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+section div{
+    margin: 10px;
+    
+}
+
+
+@media only screen and (max-width: 750px){
+    section{
+        display: block;
+    }
+}
