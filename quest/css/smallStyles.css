@@ -10,3 +10,12 @@
 .icon{
     display: none;
 }
+
+#header-title{
+    display: block;
+}
+
+h1{
+    font-size: 24px;
+    text-align: center;
+}
