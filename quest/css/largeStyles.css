@@ -89,7 +89,7 @@ html body{
     grid-row: 1 / 2;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 #header-title h1{
