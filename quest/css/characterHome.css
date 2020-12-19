@@ -52,15 +52,16 @@
 
     #content{
         justify-content: center;
-        align-items: center;
+        align-items: center;    
     }
-    
+
     #content div{
-        width: 175px;
+        width: 80%;
         margin: 5px;
+        margin-bottom: 15px;
     }
 
     #content div .section-header{
-        width: 125px
+        width: 80%;
     }
 }
