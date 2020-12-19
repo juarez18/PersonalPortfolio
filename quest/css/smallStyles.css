@@ -2,4 +2,10 @@
     display: block;
 }
 
+#header{
+    display:block;
+}
 
+.icon{
+    display: none;
+}
