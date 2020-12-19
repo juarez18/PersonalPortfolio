@@ -44,3 +44,14 @@
     box-shadow: 0 6px 20px 0 black;
 }
 
+@media only screen and (max-width: 500px){
+
+    #content div{
+        width: 175px;
+        margin: 5px;
+    }
+
+    #content div .section-header{
+        width: 125px
+    }
+}
