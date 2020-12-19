@@ -1,3 +1,3 @@
-@import "/PersonalPortfolio/quest/css/largeStyles.css";
-@import "/PersonalPortfolio/quest/css/smallStyles.css" screen and (max-width: 750px);
+@import "largeStyles.css";
+@import "smallStyles.css" screen and (max-width: 750px);
 
