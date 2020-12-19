@@ -1,1 +1,43 @@
 @import "basic.css";
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+
+
+.section-header img{
+    margin-left: auto;
+}
+
+#content div{
+   margin: 10px;
+   padding: 20px;
+   width: 250px;
+}
+
+#content div .section-header{
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px;
+}
+
+#content h2{
+    font-size: 20px;
+}
+
+#content p{
+    font-size: 10;
+}
+
+#background, #obligation, #species, #career , #xp{
+    box-shadow: 0 4px 8px 0 black;
+}
+
+#background:hover, #obligation:hover, #species:hover, #career:hover , #xp:hover{
+    box-shadow: 0 6px 20px 0 black;
+}
