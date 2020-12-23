@@ -1,43 +1,512 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Character Creation Home</title> <!-- Title of the Page-->
-        <link rel="stylesheet" href="css/obligation.css"> <!-- CSS Refernece Page-->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-    </head>
 
-    <body>
-        <header>
-            <h1>Obligation </h1>
-        </header>
-        <nav>
-            <ul class="navigation">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="species.html">Species</a></li>
-                <li><a href="careers.html">Careers</a></li>
-                <li><a href="investing.html">Investing XP</a></li>                
-            </ul>
-        </nav>
-        <main>
-            <h3>Determine Character Concept and Background</h3>
-            <p>When starting it is a good idea to think about what kind of player he would like to play and what kind of background they want for their character. You can think about things like how this character grew up and what made them into what they are today: Maybe they have had a rough life and are trying to escape into a better life, maybe they were bored with the middle class life and seek to the stars or they were living the good life and something caused them to fall from grace. These will help you understand your character and react the way they should out on the outer rim and why they are living life out on the rim.</p>
-            <h3>Obligation</h3>
-            <p>Obligation represents debts that a PC owns. Whether it is physical: Money owed, services to be repaid, or a binding contract, or intangible: a feeling of responsibility to a friend, duty to family or a favor you owe to someone else. Each PC starts with at least 1 obligation and they can lose this or even acquire more as the game progresses.</p>
-            <p>PC’s may either roll and craft their obligation based around that or may choose one that fits their character. The size of the obligation is based on starting PCs 2 – 20, 3 – 15, 4/5 – 10, 6+ - 5. Be careful as too much obligation can have affects on entire arches as they deal with these issues form these if the parties get too much. For instance, Han Solo being frozen in carbonite by Jabba.</p>
-            <h3>Obligation Charts:</h3>
-            <ul>
-                <li><a href="pdfs/basicObligation.pdf">Regular Obligations</a></li>
-                <li><a href="pdfs/bountyObligations.pdf">Bounty Hunter Obligations</a></li>
-                <li><a href="pdfs/hiredGunObligation.pdf">Hired Gun Obligations</a></li>
-                <li><a href="pdfs/smugglerObligations.pdf">Smuggler Obligations</a></li>
-                <li><a href="pdfs/techniciansObligations.pdf">Technician Obligations</a></li>
-            </ul>
-            <p>You are now ready to start selecting your characters Species and Career!</p>
-        </main>
-        <footer>
-            <p>This site is personal use please don't sue me!</p>
-        </footer>
-    </body>
-    <script src=""></script> <!-- Java Script Refenence-->
+<head>
+    <title>Character Creation Home</title> <!-- Title of the Page-->
+    <link rel="stylesheet" href="css/obligation.css"> <!-- CSS Refernece Page-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+    <nav>
+        <ul id="navigation">
+
+        </ul>
+    </nav>
+    <main>
+        <div id="header">
+            <div id="header-title">
+                <h1>CHARACTER OBLIGATION</h1>
+                <img src="images/placeholder.png" alt="home symbol" class="icon">
+            </div>
+            <div id="header-paragraph-1">
+                <h3>Overview</h3>
+                <p>Obligation represents the debt a PC owes. These debts can be physical(Money owed, Services that must
+                    be repaid or a binding contract) or they could be intangible(a feeling of responsibility to a
+                    friend’s well-being, the duty he feels to help his family or a favor owed to somebody).</p>
+            </div>
+            <div id="header-paragraph-2">
+                <h3>Process</h3>
+                <p>Depending on the GM the player should either pick their own obligation based off the thought of their
+                    character background or should roll a d-100 and make one based off that. Other times a GM may decide
+                    to pick one for the PC’s. Also, the GM typically decides the degree of the PC’s Obligation typically
+                    5-25. This represents how pressing their obligation is for instance a 25 could mean a Hutt places a
+                    bounty on you and you end up frozen in carbonite.</p>
+            </div>
+            <div id="header-paragraph-3">
+                <h3>Consequence</h3>
+                <p>Generally speaking, this will affect gameplay as much as the player gets involved and develops the
+                    character. A player should make decisions for their character so they can fulfill this obligation. A
+                    player can obtain new and pay off various obligation throughout gameplay but if a group of PC’s
+                    obtain too much Obligation this will affect gameplay as their obligation can affect current
+                    missions.</p>
+            </div>
+        </div>
+        <div id="content">
+            <div id="general-obligation">
+                <h3>General</h3>
+                <div class="g-obligation">
+                    <p>01 - 08</p>
+                    <h2>ADDICTION</h2>
+                    <p>The character has a strong addiction he must keep feeding. Whether it’s a physical addiction
+                        stims, dust, or alcohol, or a mental addiction such as gambling, law-breaking, or priceless
+                        antiques, the character devotes a lot of time, energy, and resources to pursuing or obtaining
+                        the object of his addiction. Avoiding this Obligation has an almost immediate result—withdrawal.
+                        The exact nature depends on the addiction, but the character finds it increasingly difficult to
+                        concentrate on even mundane tasks, often reflected in the GM adding anywhere from 1 to 3 setback
+                        in skill checks</p>
+                </div>
+                <div class="g-obligation">
+                    <p>09 - 16</p>
+                    <h2>Betrayal</h2>
+                    <p>This Obligation can work in one of two ways: either the character is the target of a deep and
+                        personal betrayal, or the character is the one who betrayed others. Whether it’s as simple as a
+                        betrayed
+                        confidence or broken promise or as serious as treason or mutiny, the betrayal eats away at the
+                        character
+                        and affects his everyday life. The target of the betrayal may seek answers, compensation, or
+                        simply revenge.</p>
+                </div>
+                <div class="g-obligation">
+                    <p>17 - 24</p>
+                    <h2>Blackmail</h2>
+                    <p>Someone has discovered one of the PC’s dirty secrets and is using that knowledge for some sort
+                        of gain. To make matters worse, the blackmailer possesses evidence that could possibly leak
+                        out—a holovid,
+                        bank records, a weapon used during a crime, and so on. In order to keep the secret safe, the
+                        character must
+                        do what he is told, although the blackmailer is savvy enough to keep the demand simple, easy, or
+                        cheap
+                        enough to maintain the blackmail for as long as possible, generally money or favors. </p>
+                </div>
+                <div class="g-obligation">
+                    <p>25 - 32</p>
+                    <h2>Bounty</h2>
+                    <p>For some reason, the character has a price on his head. This may be in the form of a legal
+                        warrant or a contract by criminals, collection agencies, or even someone who felt his honor
+                        violated in
+                        some way. What he did to earn this mark is up to his background, and the severity of his actions
+                        can be
+                        based on the size of his Obligation. </p>
+                </div>
+                <div class="g-obligation">
+                    <p>33 - 40</p>
+                    <h2>Criminal</h2>
+                    <p>The character has a criminal record, or was accused of a crime (perhaps one he didn’t even
+                        commit), and is somehow embroiled in the legal system. Obligation may be settled by paying
+                        ongoing legal
+                        costs, making attempts to bury evidence, or efforts to prove his innocence.</p>
+                </div>
+                <div class="g-obligation">
+                    <p>41 - 48</p>
+                    <h2>Betrayal</h2>
+                    <p>The character owes someone a great deal, whether that debt consists of money or something else.
+                        Perhaps the PC has a huge gambling debt to a Hutt, is indebted to the Czerka Corporation for his
+                        starship,
+                        owes a wealthy family for patronage, or has some other serious financial obligation. To make
+                        matters worse,
+                        depending on who owns the debt, even fully paying it off might not get the character completely
+                        off the
+                        hook—if the character can get that money, he can surely get more.</p>
+                </div>
+                <div class="g-obligation">
+                    <p>49 - 56</p>
+                    <h2>Dutybound</h2>
+                    <p>The PC has a deep sense of duty that he feels compelled to fulfill, such as military service,
+                        making good on a contract, or following some sort of thieves’ code. Unlike the Oath Obligation
+                        (see below),
+                        a Dutybound character has some legal or ritualistic bind to an organization or cause making it
+                        extremely
+                        difficult or detrimental if he fails to live up to that commitment. </p>
+                </div>
+                <div class="g-obligation">
+                    <p>57 - 64</p>
+                    <h2>Family</h2>
+                    <p>The character has deep ties with his family that require a great deal of time and attention. This
+                        could include the care and assistance of siblings or parents, the management of an inheritance,
+                        trust, or
+                        family business, or simply mediating between squabbling family members. </p>
+                </div>
+                <div class="g-obligation">
+                    <p>65 - 72</p>
+                    <h2>Favor</h2>
+                    <p>The PC owes a big favor. Perhaps officials looked the other way when he smuggled in goods, or a
+                        friend got him out of prison. Regardless, the favors are stacking up, and soon he’s going to be
+                        asked to pay
+                        them back or return the favor. This favor may be called in a little at a time, prolonging the
+                        Obligation.</p>
+                </div>
+                <div class="g-obligation">
+                    <p>73 - 80</p>
+                    <h2>Oath</h2>
+                    <p>The character has sworn some sort of oath that dictates his thoughts and actions, shaping his
+                        moral view of the world. This could be an oath to a deity, a way of living (such as the Jedi
+                        Code), or a
+                        willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath
+                        should be
+                        both serious and make life difficult in some ways for the character. It is a personal and deep
+                        undertaking,
+                        possibly without a truly obtainable end goal in sight. Characters who do not live up to this
+                        oath face an
+                        internal and moral struggle.</p>
+                </div>
+                <div class="g-obligation">
+                    <p>81 - 88</p>
+                    <h2>Obsession</h2>
+                    <p>The PC has some unhealthy obsession that tends to interfere in his life, whether with a
+                        celebrity,
+                        a region, a political movement, a cultural icon, or some other facet of society or life. He must
+                        pursue this,
+                        possibly to the detriment of his health, finances, or well being. A character with this
+                        Obligation tends to get
+                        along well with others that share his interest, but is looked at with pity, amusement, or even a
+                        bit of fear
+                        from others that don’t understand.</p>
+                </div>
+                <div class="g-obligation">
+                    <p>89 - 96</p>
+                    <h2>Responsibility</h2>
+                    <p>A character with the Responsibility Obligation feels a strong sense of accountability or
+                        relationship to a person, place, or thing (a responsibility to kin falls under the Family
+                        Obligation described
+                        above). This could include a strong connection to a mentor, a strong desire to care for orphans
+                        in a given
+                        location, or taking on the needs of an under-represented minority. </p>
+                </div>
+            </div>
+            <div id="bounty-obligation">
+                <h3>Bounty Obligations</h3>
+                <div class="b-obligation">
+                    <p>01 - 08</p>
+                    <h2>Thrill Seeker</h2>
+                    <p>Some people are addicted to alcohol or chems. others to gambling or other seedy vices. This character, however. is a confirmed adrenaline junkie and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost benefit analysis—results in an almost immediate case of excitement withdrawal. When inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>09 - 16</p>
+                    <h2>Vigilante</h2>
+                    <p> The character has seen the wheels of justice grind up the innocent and let the guilty walk free. The character has sworn to take the law—for a version of it, at any rate—and bring justice to those who deserve it, When taking on contracts, this character tends to pursue the most hardened criminals.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>17 - 24</p>
+                    <h2>Blackmail</h2>
+                    <p>Some group or individual has dirt on the character, and is using it: to the greatest advantage possible. Perhaps she killed another hunter and claimed the bounty, or maybe she is operating in the Core Worlds without the required Imperial Peace-Keeping Certificate. Whatever the case may be, the blackmailer wields an inordinate amount of power over the character. However, this power is leveraged money, favors, services rendered the Character is subject to the blackmailer's moods and whims, lest the dirty secret become common knowledge</p>
+                </div>
+                <div class="b-obligation">
+                    <p>25 - 32</p>
+                    <h2>Contract</h2>
+                    <p> A powerful and strict contract binds the character to a specific employer. This could be a crime boss, an imperial courtier or a wealthy corporate CEO. Whoever holds the character contract has nearly total control over the character’s future career. All bounties are furnished by the contract holder and deviating from the terms of the contract can lead to a number of potentially harsh fines and punishments.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>33 - 40</p>
+                    <h2>Rule Breaker</h2>
+                    <p>Either the character very publicly and flagrantly broke one of the rules laid down in the bounty hunter's code, or everyone wrongly believes she did. Whatever the case, this breach of the rules of the code affects the character’s personal and professional life in a very real way. Contracts dry up, colleagues refuse to speak to or help the character, or the character is treated in a condescending or irritatingly sympathetic manner.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>41 - 48</p>
+                    <h2>Debt</h2>
+                    <p>The character owes quite a bit of money to one or more individuals. This could be money owed to a shipyard for some expensive modifications done to the character‘s ship on credit or funds put forth by a patron who backed the character's entry into the bounty hunters' guild and expects to be repaid or services rendered.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>49 - 56</p>
+                    <h2>Betrayal</h2>
+                    <p>In the course of the job, the character has either" suffered some kind of deep personal betrayal at the hands of another bounty hunter, or is the perpetrator" of such a betrayal. The betrayal affects the character's day to day life, whether through physical reminders, emotional scars, or some combination of the two. If the character was the betrayer, the victim may come looking or answers, compensation, or revenge at any moment.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>57 - 64</p>
+                    <h2>Family</h2>
+                    <p>This hunter’s family holds an incredible influence over the character. Perhaps the PC comes from a long line of bounty hunters, whose honor must be upheld. Alternately, the bounty hunter could also be supporting a struggling family and is always eager to pick up contracts to send money home.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>65 - 72</p>
+                    <h2>Favor</h2>
+                    <p>The Character owes a favor to someone in a position to power: However, this favor came about, whether personally or professionally, repayment of that favor is coming due with interest. This favor may be called in all at once, or a little at a time, prolonging the character's Obligation</p>
+                </div>
+                <div class="b-obligation">
+                    <p>73 - 80</p>
+                    <h2>Criminal</h2>
+                    <p>The character has been accused of committing a crime during the collection of a legal bounty. This could be anything from stealing a speeder in order to chase a fleeing fugitive or interference with bonded law enforcement to killing innocents during a shootout. Whatever the case the constant threat of discovery and incarceration hovers over their character. Whether the accusations are true is irrelevant; the character has been accused and there is an outstanding warrant that makes the PC an appealing target to other bounty hunters.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>81 - 88</p>
+                    <h2>Keeper of the Faith</h2>
+                    <p>Much to many other freelancers' amusement, this character has sworn to faithfully uphold both the spirit and the letter of some code of honor. The PC believes very strongly in these edicts and adheres to  them with an almost religious fervor, The Character never knowingly breaks any of the rules laid down in the code, and may turn on colleagues who do so.</p>
+                </div>
+                <div class="b-obligation">
+                    <p>89 - 96</p>
+                    <h2>Fame</h2>
+                    <p>The character’s reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty or owns a recognizable and deadly ship or has beaten another well-known hunter to the punch in the past. Whatever the case it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult but also means that informants are more likely to spill what they know when the PC arrives.</p>
+                </div>
+            </div>
+            <div id="tech-obligation">
+                <h3>Technician Obligations</h3>
+                <div class="t-obligation">
+                    <p>01 - 08</p>
+                    <h2>Crew</h2>
+                    <p>The PC has an Obligation to keep a work crew or ship’s complement safe, healthy and in work. Whether or not the PC usually travels with the work crew this character serves as a mediator between the crew and outside individuals. The PC might owe the debt due from a time the crew saved the PC’s career or even life through hard work and sacrifice.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>09 - 16</p>
+                    <h2>Contract</h2>
+                    <p>The PC has a pressing contract to fulfill. whether it is legally binding or an informal deal. The contract maybe for providing, installing or repairing technical items or on call services. Fulfilling terms of the contract reduces the character's Obligation. while putting them off or incurring additional expenses for the sake of fulfilling, the contract might increase it.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>17 - 24</p>
+                    <h2>Blackmail</h2>
+                    <p>Someone has discovered one of the PCs dirty secrets through slicing or other technical means. The blackmailer has possession of evidence damaging to the PC's business, family or organization. The evidence is mostly stolen technical data. such as electronic 'records holovid recordings sensor data. maintenance records. secret computer codes. or similar tech-related items. To keep the secrets safe, the PC must keep the blackmailer happy, possibly through payments or granting favors. The blackmailer is cunning enough to maintain just enough of a threat to keep benefitting from the situation but not so much that the PC decides to allow the release of the evidence or to hunt down the blackmailer to permanently put an end to the danger the information poses.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>25 - 32</p>
+                    <h2>Bounty</h2>
+                    <p>The PC has an active bounty. earned during an attempt to expose the workings of a criminal or corrupt organization. The PC might have acquired evidence of the organizations misdeeds from databanks through slicing or other technical skulduggery and then attempted to take the information public. whether this meant presenting it to the authorities or broadcasting it via pirated HoloNet feed The character's background and specialization can both I provide additional ideas as to the reason for the bounty.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>33 - 40</p>
+                    <h2>Criminal</h2>
+                    <p>The character has a criminal record or is accused or a crime (rightly or wronged]. most likely for using technology illegally or providing the means for another to do so. Though the PC is not currently in custody there are outstanding warrants for the PC's arrest. The PC might seek to settle this Obligation by paying ongoing legal costs or fines. burying evidence. or convincingly demonstrating innocence in the matter.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>41 - 48</p>
+                    <h2>Debt</h2>
+                    <p>The PC owes someone a great deal. whether in money, goods. or services. The character may owe this group or individual for loans used to pay for training. buy new equipment, or start a business. Paying off the debt may be difficult due to the sheer credits value in question, as a result of the constant accrual of interest that must be paid off, or because of both. the debt might even extend beyond financial obligation. especially if the PC also has a personal relationship with the lender</p>
+                </div>
+                <div class="t-obligation">
+                    <p>49 - 56</p>
+                    <h2>Failed Installation/Repair</h2>
+                    <p>A botched modification, installation or repair job has publicly damaged the character’s reputation and rendered the device, droid or vehicle inoperable. The PC must take action to restore the damaged item and then find a way to socially engineer a return to good standing in the public eye.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>57 - 64</p>
+                    <h2>Family</h2>
+                    <p>The character's family demands great deal of time and attention. not just emotionally but also in some technical capacity. the PC might be the only member of the family able to take care or vital machinery that sustains the family’s livelihood, food, water, or even air supply. if they live on a space station or in a hostile planetary environment. Though performing routine maintenance can help keep this Obligation in check, the PC must seek to engineer a long-term solution-one that does not require constant personal intervention-to remove this Obligation completely</p>
+                </div>
+                <div class="t-obligation">
+                    <p>65 - 72</p>
+                    <h2>Favor</h2>
+                    <p>The character owes someone a big favor. Perhaps a government agent looked tile other way other catching the character slicing corporate computers. Perhaps a fellow Technician faked a malfunction or loss of data to cover for a failure on the PC's part. The magnitude of the favor is connected to the amount of Obligation. The Obligation could take an extended amount of time to clear. as it might be reduced by many small actions.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>73 - 80</p>
+                    <h2>Unfinished Business</h2>
+                    <p>The PC is working on a long-term project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable. the Obligation cannot be totally fulfilled until the unfinished business is complete, and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason</p>
+                </div>
+                <div class="t-obligation">
+                    <p>81 - 88</p>
+                    <h2>Obsession</h2>
+                    <p>The PC has an unhealthy obsession with technology droids or computers that constantly interferes with efforts to live a normal life. Whether it is repairing a prized droid, designing the next great piece of cybernetic technology or inventing a devices that defines the era the character has continual need to pursue this interest. Accomplishing significant tasks to further this goal helps reduce the character’s obligation.</p>
+                </div>
+                <div class="t-obligation">
+                    <p>89 - 96</p>
+                    <h2>Responsibility</h2>
+                    <p>The character feels a strong sense of accountability to or responsibility for a person, place or thing. It might be to a business, social group, political movement, group of friends or individual from the PC’s past. The character might feel responsibility toward a mentor or apprentice taking care of major tasks that help fulfill this responsibility reduces the characters obligation.</p>
+                </div>
+            </div>
+            <div id="hired-gun-obligation">
+                <h3>Hired Gun Obligations</h3>
+                <div class="hg-obligation">
+                    <p>01 - 08</p>
+                    <h2>Bounty</h2>
+                    <p>This is a twist on the standard bounty Obligation. Somewhere in the galaxy is a target that the Hired Gun failed to kill, and he is still out there, victimizing the innocent or bragging about his survival. The character must deal with this being, whether because the escaped target may be a danger to him, or that he feels obligated to bring in the one that got away.</p>
+                </div>
+                <div class="hg-obligation">
+                    <p>09 - 16</p>
+                    <h2>Dutybound</h2>
+                    <p>The Hired Gun was once saved from certain death, or an unfulfilled contract, by someone he would
+                        never have expected to aid him. He knows that debt is due someday and he's going to have to save someone in
+                        turn. This focuses the Dutybound Obligation on the Hired Gun's stock-in-trade: fighting and killing. </p>
+                </div>
+                <div class="hg-obligation">
+                    <p>17 - 24</p>
+                    <h2>Responsibility</h2>
+                    <p>Some say (with good reason) that Hired Guns should not make friends. A personal relation of the
+                        character is another Hired Gun or similar career, and not a very good one. The character helped him once, and he
+                        is out there in the wider galaxy fumbling around, causing trouble for himself and others. Because of that one act
+                        of kindness, he might call upon the character to help him at any time. </p>
+                </div>
+                <div class="hg-obligation">
+                    <p>25 - 32</p>
+                    <h2>Favor</h2>
+                    <p>Favors are often an obligation in a Hired Gun's past. Many start their careers with either a mentor or a
+                        sponsor, and owe that person for their support. In the case of the mentor, the Hired Gun might be more than
+                        willing to repay past support with a favor now that he's made it in the galaxy. Other sponsors, however, might
+                        have been less altruistic about supporting the Hired Gun's career. The favors they call in could be something the
+                        Hired Gun finds unsavory or even morally wrong.</p>
+                </div>
+                <div class="hg-obligation">
+                    <p>33 - 40</p>
+                    <h2>Family</h2>
+                    <p>The character has struggled out of the slime pits at the very bottom of galactic society with an almost
+                        pathological frenzy to escape everything from his past. And yet, some residual family obligation still remains.
+                        Maybe it is a younger brother or sister, or maybe a parent or close friend, but someone still cares for the Hired
+                        Gun, and he still cares for that person, no matter how much he wishes he did not. If some enemy or creditor were
+                        to discover these ties, they could easily be used against the character, and fear of this is a constant worry. </p>
+                </div>
+                <div class="hg-obligation">
+                    <p>41 - 48</p>
+                    <h2>Adrenaline Rush</h2>
+                    <p>The character is addicted to the rush of adrenaline he gets from battle. It was this character flaw that cost him his position at the upper levels of society. Now he must feed the addiction or the results turn ugly indeed. The character cannot back down from a fight of any kind, and often goes in search of conflict when things get too tame for his tastes. Should the character go an entire session without combat of some kind, the GM may add a penalty of setback to any skill checks in the next session (or until the character gets a chance to fight).</p>
+                </div>
+                <div class="hg-obligation">
+                    <p>49 - 56</p>
+                    <h2>Debt</h2>
+                    <p>Maintaining equipment, staying current with technology, and keeping weapons charged or fully loaded
+                        is not easy. Without these things, the Hired Gun has no hope of employment. The character found himself
+                        grounded without sufficient funds to prepare for a job and had to borrow money from an underworld figure. That
+                        outstanding debt now chases him from job to job. As the PC is unable to pay in credits, the debtor demands
+                        services as payment, often at the most inopportune times. The Hired Gun can reduce this Obligation by
+                        performing services for his debtor, but at the GM's discretion can also increase his Obligation for money (never
+                        more than once per session, and for a few thousand credits per point of Obligation increase). </p>
+                </div>
+                <div class="hg-obligation">
+                    <p>57 - 64</p>
+                    <h2>Collateral Accountability</h2>
+                    <p>In the pursuit of a past contract, the character was careless. He accidentally destroyed the prized possession of some major underground figure or killed someone important to that person. Now the figure holds it over the character's head. Ambiguous threats and demands for repayment have become near-constants in this character's life, as the underground figure refuses to let him forget his responsibility. He has a financial blood price or other compensation he could pay, but it is astronomical. Until it is paid off, however, the guilt and fear are ever-present. If this Obligation is triggered, the character can suffer setback to some or all skill checks during the session (at the GM's discretion) due to this burden on his nerves.</p>
+                </div>
+                <div class="hg-obligation">
+                    <p>65 - 72</p>
+                    <h2>A Score to Settle</h2>
+                    <p>The character has always been rough-and-tumble, but somewhere along the way someone
+                        wronged him, and he never forgets a debt, real or imagined. This could be as simple as someone promising him
+                        backup who then disappeared or someone bad-mouthing him in front of a prospective client. Now, the character
+                        is always looking for ways to even the score. </p>
+                </div>
+                <div class="hg-obligation">
+                    <p>73 - 80</p>
+                    <h2>Betrayal</h2>
+                    <p>The character comes from a culture where military service is seen as a righteous calling, and is only
+                        pursued for noble ends. The people who trained him do not look fondly upon his mercenary career path. Efforts
+                        to correct this might range from representatives trying to convince him to stop to assassins sent to end his sullying
+                        their name once and for all. Here, the Hired Gun has committed the perceived betrayal, and since his career
+                        choice is what's at stake, squaring this Obligation can prove very tricky. </p>
+                </div>
+                <div class="hg-obligation">
+                    <p>81 - 88</p>
+                    <h2>Oath</h2>
+                    <p>The oath a Hired Gun makes is likely something to do with a mission he must complete or his own code of
+                        honor. He might have sworn to finish some violent and incredibly risky undertaking, or he could have promised to
+                        uphold a set of rules of conduct in warfare that are hard to follow. </p>
+                </div>
+                <div class="hg-obligation">
+                    <p>89 - 96</p>
+                    <h2>The Price of a Name</h2>
+                    <p>The character claimed to be someone else, taking credit for his accomplishments in a past
+                        negotiation in the hopes of a higher payday. The wronged party, either the person impersonated or the hiring
+                        party, is now angry. This enemy might respond by chasing down the character, spreading news of the duplicity, or
+                        demanding restitution to his reputation or his credit account. 
+                        </p>
+                </div>
+            </div>
+            <div id="smuggler-obligation">
+                <h3>Smuggler Obligations</h3>
+                <div class="s-obligation">
+                    <p>01 - 08</p>
+                    <h2>Antagonist</h2>
+                    <p>Not all Smugglers are Charmers, and given the contacts a Smuggler makes in his line of work, it’s
+                        easy for him to insult the wrong person, group, or even species. This doesn’t always lead to Bounty, however, since
+                        not everyone can afford the credits required for an official bounty. In these cases, the Smuggler just lives with the
+                        knowledge that certain parties in the galaxy would make his life very difficult if given the chance.
+                        </p>
+                </div>
+                <div class="s-obligation">
+                    <p>09 - 16</p>
+                    <h2>Bad Reputation</h2>
+                    <p>Whether deserved or not, some Smugglers find themselves with a reputation for being
+                        untrustworthy or difficult to deal with. This can make finding jobs a struggle. Since the best way to reduce this
+                        Obligation is to successfully complete contracts, proving himself reliable again, the Smuggler might find himself having
+                        to take the least desirable jobs for a while. Once he’s repaired his reputation, he will be able to pick and choose again.
+                        </p>
+                </div>
+                <div class="s-obligation">
+                    <p>17 - 24</p>
+                    <h2>Betrayal</h2>
+                    <p>Given the nature of his job, a Smuggler might find himself a victim of betrayal or a betrayer himself If the
+                        victim, a Smuggler may seek vengeance on those who crossed him. If it was the Smuggler who let a fellow criminal
+                        down, then he must make amends somehow. In minor cases, a simple apology may be all that’s needed. In extreme
+                        cases, the betrayed party might need rescuing from the spice mines of Kessel or somewhere equally unpleasant.
+                        </p>
+                </div>
+                <div class="s-obligation">
+                    <p>25 - 32</p>
+                    <h2>Bounty</h2>
+                    <p>Many Smugglers earn a bounty on their heads at some point. The size of the bounty depends on the size of
+                        the Obligation, as does the nature of the bounty. A large bounty promised by a Hutt is likely to put the Smuggler in
+                        much greater peril than a similar price offered for bringing him in to face charges on some backwater planet.</p>
+                </div>
+                <div class="s-obligation">
+                    <p>33 - 40</p>
+                    <h2>Criminal</h2>
+                    <p>Smugglers are by nature criminal, but some manage to stay off authorities' radars better than others. It’s
+                        only a problem if a Smuggler gains a criminal record. This Obligation may involve avoiding a particular system where
+                        the character has a criminal record or hiding his involvement in a crime big enough to interest the authorities. In the
+                        event that the criminal record is undeserved, the Smuggler might work to expose the real perpetrator.
+                        </p>
+                </div>
+                <div class="s-obligation">
+                    <p>41 - 48</p>
+                    <h2>Debt</h2>
+                    <p> Being a Smuggler offers little security, but acquiring a ship and keeping it functioning costs a lot of credits. In
+                        order to stay in business, debts may be necessary. The Smuggler has to resolve them all eventually, and some lenders
+                        are less lenient than others. If ignored, this Obligation will only get more and more pressing.
+                        </p>
+                </div>
+                <div class="s-obligation">
+                    <p>49 - 56</p>
+                    <h2>Family</h2>
+                    <p>A family is a particular burden for a Smuggler. Perhaps they live on a planet that rarely receives the basic
+                        necessities through legitimate trade, and so they rely on the Smuggler to bring them important but inexpensive cargo.
+                        Or perhaps the Smuggler himself has brought them misfortune, and a local crime lord holds them ransom to ensure
+                        the Smuggler’s good behavior. The Smuggler could continue to follow the crime lord’s instructions or negate the
+                        Obligation by liberating his kin</p>
+                </div>
+                <div class="s-obligation">
+                    <p>57 - 64</p>
+                    <h2>Favor</h2>
+                    <p>The Smuggler owes a favor to a person or organization. Favors are a much-used currency among Smugglers,
+                        and the character may well owe favors to more than one party, perhaps even parties in competition with each other.
+                        The nature of the favor determines how to resolve it, and this is up to the player and GM to decide. Depending on to
+                        whom the Smuggler owes the favor, the player may need to deal with this Obligation sooner rather than later</p>
+                </div>
+                <div class="s-obligation">
+                    <p>65 - 72</p>
+                    <h2>Nortoriety</h2>
+                    <p>if a Smuggler has the Notoriety Obligation, then he will be unable to travel incognito, as his face or name
+                        may be recognized This makes any jobs he takes on harder, if not impossible, to complete. This Obligation is only
+                        likely to apply in certain sectors, and the extent of its influence determines the size of the Obligation. The Smuggler's
+                        own behavior might have caused this, or another party may have maliciously spread information about him. If the
+                        latter, the Obligation could be reduced by tracking down the person responsible and stopping him. if the former, the
+                        Smuggler may have to avoid the affected area long enough that the locals forget him, or he might significantly change
+                        his appearance or name to avoid recognition.</p>
+                </div>
+                <div class="s-obligation">
+                    <p>73 - 80</p>
+                    <h2>High Risk</h2>
+                    <p>The Smuggler just can’t help it; he has to take the most dangerous jobs and play for the highest stakes. He
+                        is a victim of his own pride, and his ego often lands him in trouble. This Smuggler has something to prove and, when
+                        challenged, he cannot help but take the opportunity to display his bravery, even if this puts himself and his party in
+                        harm's way</p>
+                </div>
+                <div class="s-obligation">
+                    <p>81 - 88</p>
+                    <h2>Servitude</h2>
+                    <p>Although the Smuggler might act like he’s his own boss, he is actually the property of another and must
+                        either hand over any earnings or evade his owner entirely. The Smuggler could deal with this Obligation by earning
+                        enough credits to buy his freedom, or he could kill or otherwise remove his master.
+                        </p>
+                </div>
+                <div class="s-obligation">
+                    <p>89 - 96</p>
+                    <h2>Under Contract</h2>
+                    <p>The Smuggler is under contract to obtain rare goods, transport volatile cargo, or provide difficult
+                        services. He can only put this off for so long. This Obligation is similar to Debt, but it allows the player and the GM a
+                        wider range of possibilities when determining the nature of the contract.
+                        </p>
+                </div>
+            </div>
+        </div>
+
+    </main>
+</body>
+<script src="data/links.js"></script> <!-- Java Script Refenence-->
+
 </html>
