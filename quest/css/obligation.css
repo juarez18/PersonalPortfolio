@@ -1,6 +1,7 @@
 @import 'basic.css';
 
 #header{
+    display: grid;
     grid-template-columns: 27% 27% 27%;
 }
 
