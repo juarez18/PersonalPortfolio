@@ -8,7 +8,7 @@
     ,
     {
         "label": "Putting Practice",
-        "url" : "https://juarez18.github.io/PersonalPortfolio/puttingpractice/putting.html",
+        "url" : "https://juarez18.github.io/PersonalPortfolio/puttingpractice/index.html",
         "description": "An application to practice disc golf putting using Javascript and Local storage to track progress."
     }
 
