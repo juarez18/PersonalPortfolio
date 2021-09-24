@@ -3,36 +3,36 @@
     {
         "label": "Home",
         "url": "../quest/index.html",
-        "image": "../quest/images/placeholder.png"
+        "image": "../quest/images/HomeButton.png"
     }
     ,
     {
         "label": "Background",
         "url": "../quest/background.html",
-        "image": "../quest/images/placeholder.png"
+        "image": "../quest/images/background.png"
     },
     {
         "label": "Obligation",
         "url": "../quest/obligation.html",
-        "image": "../quest/images/placeholder.png"
+        "image": "../quest/images/obligation.png"
     }
     ,
     {
         "label": "Species",
         "url": "../quest/species.html",
-        "image": "../quest/images/placeholder.png"
+        "image": "../quest/images/species.png"
     }
     ,
     {
         "label": "Career",
         "url": "../quest/careers.html",
-        "image": "../quest/images/placeholder.png"
+        "image": "../quest/images/career.png"
     }
     ,
     {
         "label": "The Force",
         "url": "../quest/force.html",
-        "image": "../quest/images/placeholder.png"
+        "image": "../quest/images/force.png"
     }
 ]
 
