@@ -1,6 +1,6 @@
-const requestURL = "data/links.json";
+const requestURL1 = "data/links.json";
 
-fetch(requestURL)
+fetch(requestURL1)
   .then(function (response) {
     return response.json();
   })
