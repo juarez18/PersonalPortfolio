@@ -34,13 +34,13 @@
     font-size: 10;
 }
 
-#background, #obligation, #species, #career , #xp{
+#background, #obligation, #species, #career , #xp, #force{
     box-shadow: 0 4px 8px 0 black;
     border: 3px solid white;
     border-radius: 16px;
 }
 
-#background:hover, #obligation:hover, #species:hover, #career:hover , #xp:hover{
+#background:hover, #obligation:hover, #species:hover, #career:hover , #xp:hover , #force:hover{
     box-shadow: 0 6px 20px 0 black;
 }
 

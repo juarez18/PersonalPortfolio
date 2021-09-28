@@ -30,6 +30,12 @@
     }
     ,
     {
+        "label": "Investing",
+        "url": "../quest/investing.html",
+        "image": "../quest/images/investing.png"
+    }
+    ,
+    {
         "label": "The Force",
         "url": "../quest/force.html",
         "image": "../quest/images/force.png"
