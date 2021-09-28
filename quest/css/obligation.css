@@ -63,6 +63,32 @@
     text-align: center;
 }
 
+#obligation-selector h3{
+    text-align: center;
+}
+
+#obligation-selector div{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#obligation-selector button{
+    background-color: purple;
+    margin: 20px;
+    color: white;
+    font-size: 12px;
+    padding: 10px 24px;
+    border-radius: 12px;
+    border: white;
+    opacity:.8;
+}
+
+#obligation-selector button:hover{
+    opacity: 1;
+}
+
 @media only screen and (max-width: 1500px){
     #general-obligation , #bounty-obligation , #tech-obligation, #hired-gun-obligation, #smuggler-obligation{
         grid-template-columns: 1fr 1fr 1fr;
