@@ -101,6 +101,14 @@
 }
 
 @media only screen and (max-width: 1000px){
+    #header {
+        display: block;
+    }
+
+    #obligation-selector div{
+        display: block;
+    }
+
     #general-obligation , #bounty-obligation , #tech-obligation, #hired-gun-obligation, #smuggler-obligation{
         grid-template-columns: 1fr 1fr;
     }
