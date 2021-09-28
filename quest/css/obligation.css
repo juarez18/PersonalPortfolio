@@ -123,6 +123,10 @@
     #general-obligation , #bounty-obligation , #tech-obligation, #hired-gun-obligation, #smuggler-obligation{
         display: block;
     }
+
+    #content div div{
+        margin-bottom: 20px
+    }
     
     .g-obligation{
         margin-bottom: 20px;
