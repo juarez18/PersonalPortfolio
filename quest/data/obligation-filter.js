@@ -38,9 +38,20 @@ function hideDisplay(y){
     y.style.display = "none";
 }
 
+function getwindowssize(){
+    console.log(window.innerWidth)
+    return window.innerWidth;
+}
+
 //shows a specfic display
 function showDisplay(z){
-    z.style.display = "grid";
+    var a = getwindowssize();
+    if(a > 700){
+        z.style.display = "grid";
+    }
+    else{
+        z.style.display = "block"
+    }
 }
 
 //Hides all the divs
@@ -63,7 +74,6 @@ function showAllDisplays(){
 
 //actually filters the obligations
 function filterObligation(x){
-    console.log(x)
     if (x == "all"){
         showDisplay(general);
         showDisplay(bounty);
