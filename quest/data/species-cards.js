@@ -34,12 +34,12 @@ fetch(requestURL)
         let img = document.createElement("img")
 
         h2.textContent = species[i].name;
-        p1.textContent = "Brawn";
-        p2.textContent = "Agility";
-        p3.textContent = "Intellect"; 
-        p4.textContent = "Cunning"; 
-        p5.textContent = "Willpower";
-        p6.textContent = "Presence";
+        p1.textContent = "B";
+        p2.textContent = "A";
+        p3.textContent = "I"; 
+        p4.textContent = "C"; 
+        p5.textContent = "W";
+        p6.textContent = "P";
         td1.textContent = species[i].Brawn;
         td2.textContent = species[i].Agility;
         td3.textContent = species[i].Intellect;
