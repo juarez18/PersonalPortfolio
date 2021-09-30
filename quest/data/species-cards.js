@@ -29,7 +29,7 @@ fetch(requestURL)
         let p7 = document.createElement("p");
         let p8 = document.createElement("p");
         let p9 = document.createElement("p");
-        let p10 = document.createElement("p");
+        let p10 = document.createElement("h3");
         let a1 = document.createElement("a");
         let img = document.createElement("img")
 
@@ -49,7 +49,7 @@ fetch(requestURL)
         p7.textContent = "Wound Threshold: " + species[i].WoundThreshold + " + Brawn";
         p8.textContent = "Strain Threshold: " + species[i].StrainThreshold + " + Willpower";
         p9.textContent = "Starting Experience: " + species[i].StartingExperience;
-        p10.textContent = "Special Abilities: " + species[i].SpecialAbility;
+        p10.textContent = "Starting Abilities:"
         a1.textContent = "For more information click here";
         a1.setAttribute('href', species[i].info);
         img.setAttribute('src', species[i].image);
@@ -75,7 +75,14 @@ fetch(requestURL)
         card.appendChild(p7);
         card.appendChild(p8);
         card.appendChild(p9);
-        card.appendChild(p10);
+        let ul = document.createElement("ul");
+        ul.appendChild(p10);
+        for (let a = 0; a < species[i].SpecialAbility.length; a++){
+          let li = document.createElement("li");
+          li.textContent = species[i].SpecialAbility[a]
+          ul.appendChild(li);
+        }
+        card.appendChild(ul);
         card.appendChild(a1);
         card.appendChild(img);
 
