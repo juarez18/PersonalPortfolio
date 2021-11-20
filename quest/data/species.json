@@ -16,7 +16,7 @@
                 "Also start with one rank in Convincing Demeanor talent"
             ],
         "info": "https://starwars.fandom.com/wiki/Bothan/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/0/03/BothanNEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20061130130400"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/bothan.png"
     },
     
     {
@@ -39,7 +39,7 @@
             "Droids start the game with onerank in the enduring talent",
             "Driods cannot become force users or acquire force ratings. Although they cannot be affected by mind altering force powers."],
         "info" : "https://starwars.fandom.com/wiki/Droid/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c8/Counterparts.jpg/revision/latest/scale-to-width-down/250?cb=20070608122549"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/droid.png"
     },
 
     {
@@ -59,7 +59,7 @@
             "Gands with lungs breathe ammonia gas mixture. Starts the game with ammonia respirator and treats oxygen as a dangerous atmosphere but gains 10 XP to start.",
             "Gands without lungs are immune to suffocation (Not immune to the vacuum of space)"],
         "info": "https://starwars.fandom.com/wiki/Gand/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9a/GandAlienNEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20061205190815"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/gand.png"
     },
 
     {
@@ -76,7 +76,7 @@
         "SpecialAbility":[
             "Humans start the game with 2 differnet non-career skills of thier choice"],
         "info": "https://starwars.fandom.com/wiki/Human/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/5d/Humans-TESB30.jpg/revision/latest/scale-to-width-down/500?cb=20100628191857"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/human.png"
     },
 
     {
@@ -94,7 +94,7 @@
             "Rodians begin with 1 rank of Survival.",
              "Start with Expert Tracker talent."],
         "info": "https://starwars.fandom.com/wiki/Rodian/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/2/23/Rodian_NEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20061127015745"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/rodian.png"
     },
 
     {
@@ -113,7 +113,7 @@
             "Regeneration: Whenever a Trandoshan would recover wounds from natural rest or bacta tank recover an additonal wound. Does not recover from medical treatments or stims. Trandoshans can regrow limbs although takes a month before even usable.",
             "Claws: When making brawl checks deals +1 damage and has crit of 3."],
         "info": "https://starwars.fandom.com/wiki/Trandoshan/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/45/Trandoshan_NEGAS.png/revision/latest/scale-to-width-down/500?cb=20130115031110"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/trandoshan.png"
     },
 
     {
@@ -131,7 +131,7 @@
             "Twl'leks start with 1 rank in either charm or deception.",
             "Can remove setbacks imposed due to hot or arid conditions."],
         "info": "https://starwars.fandom.com/wiki/Twi%27lek/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/95/TwilekNEGAS.png/revision/latest/scale-to-width-down/500?cb=20150523023715"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/twllek.png"
     },
 
     {
@@ -149,7 +149,7 @@
             "Wookies begin the game with 1 rank in brawl.",
             "Wookie Rage: When suffered any wounds deal +1 damage on brawl or melee attacks, +2 if critically injured"],
         "info": "https://starwars.fandom.com/wiki/Wookiee/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Wookiee_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20090711201859"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/wookie.png"
     },
 
     {
@@ -167,7 +167,7 @@
             "Besalisk begin the game with 1 rank of Resilience.",
             "Additional Limbs: Besalisks have multiple sets of arms. As a result they gain an additional free maneuver per turn, though still may not perform more than 2 maneuvers."],
         "info": "https://starwars.fandom.com/wiki/Besalisk/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1b/BesaliskNEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20130908201429"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/besalisk.png"
     },
 
     {
@@ -185,7 +185,7 @@
             "Dugs begin the game with one rank in Brawl.",
             "Begin the game with Defensive Driving Talent"],
         "info": "https://starwars.fandom.com/wiki/Dug/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bd/Dug_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20090709061842"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/dug.png"
     },
 
     {
@@ -208,7 +208,7 @@
             "remove 2 setbacks for arid or hot enviromental conditions.",
             "Gain Enduring talent."],
         "info": "https://starwars.fandom.com/wiki/Mustafarian/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/ec/Mustafarian_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20061201140518"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/mustafarian.png"
     },
 
     {
@@ -229,7 +229,7 @@
             "Ualaq: Begin with 1 rank of Survival or Perception. May remove 1 setback due to dark conditions but gain 1 setback for bright condtions.",
             "Quara: gain 1 rank in athletics or Coercion. May remove setback when attempting to track anything through a natural enviroment"],
         "info":"https://starwars.fandom.com/wiki/Aqualish/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4b/Aqualish-NEGAS.png/revision/latest/scale-to-width-down/499?cb=20200704031733"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/aqualish.png"
     },
 
     {
@@ -265,7 +265,7 @@
             "Weequay begin with Resilience or Athletics.",
             "Weequay can communicate with other Weequays using pheromones. This is completely non-verbal, an undetectable to any other species nearby. Only can communicate in short range."],
         "info": "https://starwars.fandom.com/wiki/Weequay/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4d/Weequay_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20061130133637"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/weequay.png"
     },
 
     {
@@ -285,7 +285,7 @@
             "Hutts begin game with one rank of Coercion or Discipline.",
             "Ponderous: A hutt can never spend more than 1 maneuver moving per turn."],
         "info": "https://starwars.fandom.com/wiki/Hutt/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a7/HuttNEGAS.png/revision/latest/scale-to-width-down/500?cb=20130115030417"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/hutt.png"
     },
 
     {
@@ -304,7 +304,7 @@
             "Cyborg: All Ganks are cyborgs. A Gank begins play with up to 2 cybernetics that total up to 5,000 credits.",
              "Ganks have an implant cap of 3 plus brawn."],
         "info": "https://starwars.fandom.com/wiki/Gank/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/Gank_LoNH.png/revision/latest/scale-to-width-down/200?cb=20150928004350"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/gank.png"
     },
 
     {
@@ -319,7 +319,7 @@
         "StrainThreshold": 10,
         "StartingExperience": 100,
         "SpecialAbility":[
-            "There are 3 types of Nikitos each with there own special abilities:",
+            "There are 5 types of Nikitos each with there own special abilities:",
             "Kajain'sa Nikitos(Red):",
             "Gain one rank of Resilence",
             "May remove setback due to hot or arid conditions.",
@@ -337,7 +337,7 @@
             "1 rank of perception",
             "Gain boost to perception and vigilance checks to detect sounds."],
         "info": "https://starwars.fandom.com/wiki/Nikto/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d4/Nikto.jpg/revision/latest/scale-to-width-down/500?cb=20181126234617"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/nikto.png"
     },
 
     {
@@ -355,7 +355,7 @@
             "Begin with 1 rank in Perception or Vigilance.",
             "Also start with 1 rank of expert tracker."],
         "info":"https://starwars.fandom.com/wiki/Sakiyan/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Female_Sakiyan_LoNH.png/revision/latest/scale-to-width-down/178?cb=20200623054545"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/sakiyan.png"
     },
 
     {
@@ -373,7 +373,7 @@
             "Begin with 1 rank of Charm.",
             "Beguiling Pheromones: By emitting pheromones and altering their skin color, Falleen can affect emotional states of other sentients, once per check as an incidental. Can also also suffer 2 strain to upgrade the ability of a charm, deception or negotiation check on a living being wihtin short range. This has no affect on targets with breath masks or respiratory systems."],
         "info": "https://starwars.fandom.com/wiki/Falleen/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Falleen_Outlaw.jpg/revision/latest/scale-to-width-down/499?cb=20090506010245"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/falleen.png"
     },
 
     {
@@ -391,7 +391,7 @@
             "Start with 1 rank in perception.",
             "Energy Sensitivity: The head cones of gotal are finely tuned sensory organs. Once per encounter as a manuever may sense the presence and current emotional states of all living things in a short range."],
         "info": "https://starwars.fandom.com/wiki/Gotal/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fe/Gotal_AA.jpg/revision/latest/scale-to-width-down/500?cb=20060620164901"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/gotal.png"
     },
 
     {
@@ -410,7 +410,7 @@
             "Amphibious: can breathe underwater without penalty and never suffer movement penalty traveling through water.",
             "Ink Spray: Once per encounter as an out of turn incidental may suffer 2 strain to add 1 setback to a combat check made within short range, in water add 3 setback."],
         "info":"https://starwars.fandom.com/wiki/Quarren/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a7/Quarren_AoRSR.png/revision/latest/scale-to-width-down/500?cb=20190224045302"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/quarren.png"
     },
 
     {
@@ -428,7 +428,7 @@
             "Begin the game with 1 rank in Resilience",
             "Changeling: as an action may suffer 3 strain and an average resilience check. If success changes apperance to match that of a silhourtte 1 character whom has observed before."],
         "info":"https://starwars.fandom.com/wiki/Clawdite/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/ClawditeNEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20090709061818"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/clawdite.png"
     },
 
     {
@@ -446,7 +446,7 @@
             "Start with 1 rank in survival or deception.",
             "Resilient Metabolism: Devorians are naturally hardy and resistant to toxins. Add automatic success to all resilience checks."],
         "info":"https://starwars.fandom.com/wiki/Devaronian/Legends",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/55/DevaronianNEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20100616044458"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/devaronian.png"
     },
 
     {
@@ -464,7 +464,7 @@
             "Kallerans begin with 1 rank of streetwise.",
             "Hypersensitive Antennae: begin with Heightened Awareness Talent."],
         "info":"https://starwars.fandom.com/wiki/Kalleran",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7d/Kalleran.png/revision/latest?cb=20161129233034"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/Kalleran.png"
     },
 
     {
