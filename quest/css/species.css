@@ -27,7 +27,7 @@ main section{
     margin: 20px;
     border: 3px black solid;
     max-width: 500px;
-    background-color: lightgray;
+    background-color: snow;
 }
 
 table, th, td {
@@ -50,7 +50,8 @@ table, th, td {
   }
 
   main section h2{
-      background-color: white;
+      background-color: purple;
+      color: white;
       margin: 0;
       padding-top: 10px;
       padding-right: 2em;
@@ -58,15 +59,22 @@ table, th, td {
   }
 
   main section p , a{
-      padding: 10px;
+      padding: 0px;
+      text-align: center;
   }
 
+
   th{
-      background-color: lightskyblue;
+      background-color: purple;
+      color: white;
+      padding: 10px;
+      padding-left: 15px;
+      padding-right: 15px;
   }
 
   td{
       background-color: ghostwhite;
+      font-weight: bold;
   }
 
   .species p{
@@ -80,8 +88,16 @@ table, th, td {
 
   .species ul{
       padding-left: 5%;
-      margin: 0;
+      margin: 20px;
       margin-bottom: .5em;
+  }
+
+  .species li{
+      padding: 4px;
+  }
+  a {
+      text-align: center;
+      padding-bottom: 15px;
   }
 
 

@@ -4,7 +4,7 @@ section{
     border: 3px solid ghostwhite;
     border-radius: 15px;
     padding: 15px;
-    background-color: ghostwhite;
+    background-color: snow;
     margin: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -13,26 +13,68 @@ section{
 section h2{
     grid-column: 1 / 3;
     grid-row: 1 / 2;
+    color: purple;
 }
 
 .description{
     grid-column: 1 / 3;
-    grid-row: 2 / 3;
+    grid-row: 3 / 4;
     margin: 10px;
 }
 
 .skills{
     grid-column: 1 / 3;
-    grid-row: 3 / 4;
+    grid-row: 2 / 3;
+    text-align: center;
+    font-weight: bold;
+}
+
+section h3{
+    grid-column: 1 / 3;
+    grid-row: 4 / 5;
     text-align: center;
 }
 
 section div{
-    border: 3px solid lightgoldenrodyellow;
     border-radius: 15px;
-    background-color: lightgoldenrodyellow;
     padding: 10px;
     margin: 10px;
+    background-color: thistle;
+    padding: 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+section div:hover{
+    box-shadow: 10px 10px 5px dimgrey;
+}
+
+#header{
+    display: grid;
+}
+
+#header-paragraph-1{
+    grid-column: 1 / 3;
+    grid-row: 2 / 3;
+}
+
+#header-paragraph-2{
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+}
+
+section a{
+    background-color: purple;
+    text-align: center;
+    color: white;
+    padding: 10px 25px;
+    margin: auto;
+    text-decoration: none;
+    display: block;
+    width: 38%;
+}
+
+section a:hover{
+    background-color: orchid;
 }
 
 @media only screen and (max-width: 750px){
@@ -42,5 +84,9 @@ section div{
 
     main{
         max-width: 100%;
+    }
+
+    #header{
+        display: block;
     }
 }

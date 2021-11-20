@@ -149,7 +149,7 @@
             "Wookies begin the game with 1 rank in brawl.",
             "Wookie Rage: When suffered any wounds deal +1 damage on brawl or melee attacks, +2 if critically injured"],
         "info": "https://starwars.fandom.com/wiki/Wookiee/Legends",
-        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/wookie.png"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/wookiee.png"
     },
 
     {
@@ -464,7 +464,7 @@
             "Kallerans begin with 1 rank of streetwise.",
             "Hypersensitive Antennae: begin with Heightened Awareness Talent."],
         "info":"https://starwars.fandom.com/wiki/Kalleran",
-        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/Kalleran.png"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/kalleran.png"
     },
 
     {
@@ -628,7 +628,7 @@
             "Begin the game with one rank in Survival",
             "Fearsome Countenance: Zabrak add automatic advantage to all Coercion checks."],
         "info":"https://starwars.fandom.com/wiki/Zabrak",
-        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/Zabrak.png"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/zabrak.png"
     },
     
     {
@@ -664,7 +664,7 @@
         "SpecialAbility":[
             "Begin the game with one rank in Knowledge(Lore)"],
         "info":"https://starwars.fandom.com/wiki/Bardottan",
-        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/Bardottan.png"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/bardottan.png"
     },
     
     {

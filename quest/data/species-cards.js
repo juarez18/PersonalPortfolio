@@ -83,8 +83,8 @@ fetch(requestURL)
           ul.appendChild(li);
         }
         card.appendChild(ul);
-        card.appendChild(a1);
         card.appendChild(img);
+        card.appendChild(a1);
 
         document.querySelector('div.species').appendChild(card);
     }
