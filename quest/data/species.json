@@ -247,7 +247,7 @@
             "Klatooinians begin with either brawl, Ranged(heavy) or Ranged(light).",
             "Start 1 rank of one non-career skill."],
         "info": "https://starwars.fandom.com/wiki/Klatooinian/Legends",
-        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/klat.png"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/klat.png"
     },
 
     {
@@ -481,5 +481,5 @@
             "Start with 1 rank in Knowledge(Education)",
             "When assisting others in addition to usnig his skill or charactersitic rating adds another boost die"],
         "info":"https://starwars.fandom.com/wiki/Drall/Legends",
-        "image": "https://static.wikia.nocookie.net/starwars/images/c/cd/Drall_Alien_Anthology.jpg/revision/latest/scale-to-width-down/350?cb=20070528035538"
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/drall.png"
     }]}
