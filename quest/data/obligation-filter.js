@@ -1,9 +1,15 @@
 //gets obligation divs
+
 var general = document.getElementById("general-obligation");
 var bounty = document.getElementById("bounty-obligation");
 var tech = document.getElementById("tech-obligation");
 var hired = document.getElementById("hired-gun-obligation");
 var smug = document.getElementById("smuggler-obligation");
+var exp = document.getElementById("explorer-obligation");
+
+console.log(general);
+
+
 
 //gets buttons from html
 var allFilterBtn = document.getElementById("all-filter");
@@ -12,6 +18,7 @@ var bountyBtn = document.getElementById("bounty-filter");
 var techBtn = document.getElementById("tech-filter");
 var hgBtn = document.getElementById("hg-filter");
 var smugBtn = document.getElementById("smug-filter");
+var explorerBtn = document.getElementById("exp-filter");
 
 //adds onclick event listeners to buttons
 allFilterBtn.addEventListener('click' , function(){
@@ -32,6 +39,9 @@ hgBtn.addEventListener('click', function(){
 smugBtn.addEventListener('click', function(){
     filterObligation("smug")
 });
+smugBtn.addEventListener('click', function(){
+    filterObligation("exp")
+});
 
 //hides a specfic display
 function hideDisplay(y){
@@ -39,7 +49,7 @@ function hideDisplay(y){
 }
 
 function getwindowssize(){
-    console.log(window.innerWidth)
+    
     return window.innerWidth;
 }
 
@@ -61,25 +71,31 @@ function hideAllDisplays(){
     hideDisplay(tech);
     hideDisplay(hired);
     hideDisplay(smug);
+    hideDisplay(exp);
 }
 
 //shows all the displays
 function showAllDisplays(){
+
     showDisplay(general);
     showDisplay(bounty);
     showDisplay(tech);
     showDisplay(hired);
     showDisplay(smug);
+    showDisplay(exp);
 }
 
 //actually filters the obligations
 function filterObligation(x){
+
     if (x == "all"){
+
         showDisplay(general);
         showDisplay(bounty);
         showDisplay(tech);
         showDisplay(hired);
         showDisplay(smug);
+        showDisplay(exp);
     }
 
     else if (x == "general"){
@@ -102,6 +118,10 @@ function filterObligation(x){
     else if(x == "smug"){
         hideAllDisplays();
         showDisplay(smug)
+    }
+    else if(x == "exp"){
+        hideAllDisplays();
+        showDisplay(exp)
     }
     else{
 

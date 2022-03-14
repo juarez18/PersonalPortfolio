@@ -149,7 +149,35 @@
                         "bonusSkill3": "Knowledge (Underworld)",
                         "bonusSkill4": "Negotiation",
                         "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F60193381a8eb030011838253&sa=D&sntz=1&usg=AFQjCNGeIXn8CovwMOuQ18t4kqQcQfgfMg"
+                    },
+                    {
+                        "name":"Archaeologist",
+                        "description" : "Most Explorers are searching for the new. New oppurtunities, new planets, new civilizations, new marketplaces. Archaeologits on the other hadn are firmly entrenched in the old.",
+                        "bonusSkill1": "Athletics",
+                        "bonusSkill2": "Discipline",
+                        "bonusSkill3": "Knowledge (Education)",
+                        "bonusSkill4": "Knowledge (Lore)",
+                        "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F61998d47bf30180012a1c059&sa=D&sntz=1&usg=AOvVaw32m1BVFGDe28Q8aOuAg8IZ"
+                    },
+                    {
+                        "name":"Big-Game Hunter",
+                        "description" : "With the skills of a survivalist, the instincts of a bounty hunter and the courage of a madman, the Big-Game Hunter tends to baffle everyone with his desire to actively track down, confront and do battle with the most terrifying creatures in the galaxy.",
+                        "bonusSkill1": "Knowledge (Xenology)",
+                        "bonusSkill2": "Ranged (Heavy)",
+                        "bonusSkill3": "Stealth",
+                        "bonusSkill4": "Survival",
+                        "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F61999a0dbf30180012a1c1cd&sa=D&sntz=1&usg=AOvVaw2IhEFN0ahdbc2z3IN5gVtK"
+                    },
+                    {
+                        "name":"Driver",
+                        "description" : "Pilots are great for traveling from one system to another but its the drives that move beings around once they hit the dirt.",
+                        "bonusSkill1": "Cool",
+                        "bonusSkill2": "Gunnery",
+                        "bonusSkill3": "Mechanics",
+                        "bonusSkill4": "Piloting (Planetary)",
+                        "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F61999a14bf30180012a1c1ce&sa=D&sntz=1&usg=AOvVaw0zTUBcv5OaX-E_Th2rIO4b"
                     }
+                    
                 ]
             },
             {

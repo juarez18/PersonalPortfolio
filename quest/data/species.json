@@ -683,4 +683,57 @@
             "Amphibious: can breathe underwater without penalty and never suffer movement penalty traveling through water."],
         "info":"https://starwars.fandom.com/wiki/gungan",
         "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/gungan.png"
-    }]}
+    },
+    {
+        "name":"Chiss",
+        "Brawn": 2,
+        "Agility": 2,
+        "Intellect": 3,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 1,
+        "WoundThreshold": 10,
+        "StrainThreshold": 10,
+        "StartingExperience": 100,
+        "SpecialAbility":[
+            "Begin the Game with one rank of Cool.",
+            "Infravision: Chiss have adapted to be able to see in both infrared and normal visual spectra. This allows Chiss character to remove up to 1 Setback added to checks by lighting conditions."],
+        "info":"https://starwars.fandom.com/wiki/Chiss",
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/chiss.png"
+    },
+    {
+        "name":"Duros",
+        "Brawn": 1,
+        "Agility": 2,
+        "Intellect": 3,
+        "Cunning": 2,
+        "Willpower": 2,
+        "Presence": 2,
+        "WoundThreshold": 11,
+        "StrainThreshold": 10,
+        "StartingExperience": 100,
+        "SpecialAbility":[
+            "Begin the Game with one rank of Piloting (Space).",
+            "Intuitive Navigation: Duros may add an Advantage to all Astrogation Checks."],
+        "info":"https://starwars.fandom.com/wiki/Duros",
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/duros.png"
+    },
+    {
+        "name":"Toydarians",
+        "Brawn": 1,
+        "Agility": 1,
+        "Intellect": 2,
+        "Cunning": 2,
+        "Willpower": 3,
+        "Presence": 3,
+        "WoundThreshold": 9,
+        "StrainThreshold": 12,
+        "StartingExperience": 90,
+        "SpecialAbility":[
+            "Toydarians are smaller than average and count as Silhouette 0",
+            "Hoverer: Toydarains have wings that allow them to hover off the ground. They do not have to spend additional maneuvers when navigating difficult terrain. Otherwise their wings allow them no extra capabilites beyond those of a normal walking character."],
+        "info":"https://starwars.fandom.com/wiki/Toydarian",
+        "image": "https://juarez18.github.io/PersonalPortfolio/quest/images/species/toydarian.png"
+    }
+    
+    ]}
