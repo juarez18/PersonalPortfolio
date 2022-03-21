@@ -1,0 +1,247 @@
+{"careers":[
+    {
+        "career": "The Consular",
+        "description" : "The Consular focuses on the goal of achieving peace and harmony through positive discourse. Followers of this path try to avoid physicl conflict whenever possible.", 
+        "skill1": "Cool",
+        "skill2": "Discipline",
+        "skill3": "Knowledge (Education)",
+        "skill4": "Knowledge (Lore)",
+        "skill5": "Leadership",
+        "skill6": "Negotiation",
+        "specializations":[
+            {
+                "name":"Healer",
+                "description" : "Consulars draw on compassion. In many this is expressed by a desire to mitigate bodily harm and cure the sick.",
+                "bonusSkill1": "Discipline",
+                "bonusSkill2": "Knowledge (Education)",
+                "bonusSkill3": "Knowledge (Xenology)",
+                "bonusSkill4": "Medicine",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F62004d87f8a60e0011058b97&sa=D&sntz=1&usg=AOvVaw2weWcyV69WurjAsvW3i-uI"
+            },
+
+            {
+                "name":"Niman Disciple",
+                "description": "Even the best negotiators can see negotiations fail, Niman is a lightsaber form that focuses on Self Defense.",
+                "bonusSkill1": "Discipline",
+                "bonusSkill2": "Leadership",
+                "bonusSkill3": "Lightsaber",
+                "bonusSkill4": "Negotiation",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F62005de6f8a60e0011058d6f&sa=D&sntz=1&usg=AOvVaw13YJSJ1NtiJ9QWC33ocAsu"
+            },
+            {
+                "name":"Sage",
+                "description": "Knowledge is power. A Sage focuses on studing the world around him, recognizing that information offers tremendous advantages to himself and allies.",
+                "bonusSkill1": "Astrogation",
+                "bonusSkill2": "Charm",
+                "bonusSkill3": "Cool",
+                "bonusSkill4": "Knowledge (Lore) ",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F6200624bbf30180012a75eab&sa=D&sntz=1&usg=AOvVaw2W_rLoIRAXqr-IpbFLW28m"
+            }
+        ]
+    },
+    {
+        "career": "The Guardian",
+        "description" : "A Guardian has an inate sense of responsibility and compassion. Their affinity for the force gives them the power and responsiblity to help the helpless and aid the oppressed.", 
+        "skill1": "Brawl",
+        "skill2": "Cool",
+        "skill3": "Discipline",
+        "skill4": "Melee",
+        "skill5": "Resilence",
+        "skill6": "Vigilance",
+        "specializations":[
+            {
+                "name":"Peacekeepers",
+                "description" : "Defending the weak and defenseless. Sometimes you take direct action through military force or by yourself.",
+                "bonusSkill1": "Discipline",
+                "bonusSkill2": "Leadership",
+                "bonusSkill3": "Perception",
+                "bonusSkill4": "Piloting (Planetary)",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F601938ee1f1d300013554f30&sa=D&sntz=1&usg=AOvVaw3NNW4tZ_X6K4df49KSv7uM"
+            },
+
+            {
+                "name":"Protector",
+                "description": "Often Driven by their compassion for the plights of those who cannot protect themselves.",
+                "bonusSkill1": "Athletics",
+                "bonusSkill2": "Medicine",
+                "bonusSkill3": "Ranged (Light)",
+                "bonusSkill4": "Resilience",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F601938f4a8eb030011838271&sa=D&sntz=1&usg=AOvVaw0eppReoEioikZ57AVRD2wO"
+            },
+            {
+                "name":"Soresu Defender",
+                "description": "Soresu Defenders have mastered the art of self defense with lightsaber in hand.",
+                "bonusSkill1": "Discipline",
+                "bonusSkill2": "Knowledge (Lore)",
+                "bonusSkill3": "Lightsaber",
+                "bonusSkill4": "Vigilance",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F601938fa1f1d300013554f33&sa=D&sntz=1&usg=AOvVaw1JL7tJDqACktXuBzSaJpPV"
+            }
+        ]
+    },
+    {
+        "career": "The Mystic",
+        "description" : "From the time they open their eyes for the first time, Mystics have a strong connection to the force and colors their perception of the world surrounding them.", 
+        "skill1": "Charm",
+        "skill2": "Coercion",
+        "skill3": "Knowledge (Lore)",
+        "skill4": "Knolwedge (Outer Rim)",
+        "skill5": "Perception",
+        "skill6": "Vigilance",
+        "specializations":[
+            {
+                "name":"Advisor",
+                "description" : "Not all force users seek roles of authority some choose to place themselves in advisor roles so that they cannot be corrupted by the lure of power.",
+                "bonusSkill1": "Charm",
+                "bonusSkill2": "Deception",
+                "bonusSkill3": "Negotiation",
+                "bonusSkill4": "Streetwise",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F600776e477bae40012b0f0ef&sa=D&sntz=1&usg=AOvVaw0R7SN3EZAmk8m6Vd_aKESD"
+            },
+
+            {
+                "name":"Makashi Duelist",
+                "description": "The presence and showmanship that come naturally to all mystics refelects itself in the way of a duelist. Dominationg a combat thrugh presence is as important through martial prowess.",
+                "bonusSkill1": "Charm",
+                "bonusSkill2": "Cool",
+                "bonusSkill3": "Coordination",
+                "bonusSkill4": "Lightsaber",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F6007830777bae40012b0f16f&sa=D&sntz=1&usg=AOvVaw3qsfrYi0Lia57jUMFcrwxQ"
+            },
+            {
+                "name":"Seer",
+                "description": "Seers recognize the forces influence in the sublest of ways. They feel the ripples in the force that reveal deep emanings and forewarn of critical events. Because of this they mostly choose to live in isolation far from crowded towns and cities.",
+                "bonusSkill1": "Discipline",
+                "bonusSkill2": "Knowledge (Lore)",
+                "bonusSkill3": "Survival",
+                "bonusSkill4": "Vigilance",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F601bca49a8eb03001183a1b4&sa=D&sntz=1&usg=AOvVaw0JW-JPtMYHzVvz00DLihsa"
+            }
+        ]
+    },
+    {
+        "career": "The Seeker",
+        "description" : "Seekers feel compelled to travel the galaxy for a number of reasons helping others, finding force sensitives, find new force techniques, halt dangerous threats. Some view the force more as a tool in their aresenal. ", 
+        "skill1": "Knowledge (Xenology)",
+        "skill2": "Piloting (Planetary)",
+        "skill3": "Piloting (Space)",
+        "skill4": "Ranged (Heavy)",
+        "skill5": "Survival",
+        "skill6": "Vigilance",
+        "specializations":[
+            {
+                "name":"Ataru Striker",
+                "description" : "Ataru focuses on ending combat quickly and decisively. When an injury in an remote system is the difference between life and death it is important to that when combat arises ataru throw themselves into combat with every fiber of there being.",
+                "bonusSkill1": "Athletics",
+                "bonusSkill2": "Coordination",
+                "bonusSkill3": "Lightsaber",
+                "bonusSkill4": "Perception",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F5fc6ac14c7aa430011d9dcb8&sa=D&sntz=1&usg=AOvVaw3iZ4ZjUeNnKn5RkNLUsl2F"
+            },
+
+            {
+                "name":"Hunter",
+                "description": "Hunters are force adepts that are uniquely capable at tracking, confronting and slaying creatures or individuals that prey on anything living.",
+                "bonusSkill1": "Coordination",
+                "bonusSkill2": "Ranged (Heavy)",
+                "bonusSkill3": "Stealth",
+                "bonusSkill4": "Vigilance",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F5ff8fc684fe3c900115c8d06&sa=D&sntz=1&usg=AOvVaw3aVUtPqmkp3g19gYWhwiSw"
+            },
+            {
+                "name":"Pathfinder",
+                "description": "Pathfinders are adept at exploring a planet and discovering its secrets.",
+                "bonusSkill1": "Medicine",
+                "bonusSkill2": "Ranged (Light)",
+                "bonusSkill3": "Resilience",
+                "bonusSkill4": "Survival",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F5ff8fdcde184840011bca606&sa=D&sntz=1&usg=AOvVaw3vd2NST4HcQZP33Qb-92G6"
+            }
+        ]
+    },
+    {
+        "career": "The Sentinel",
+        "description" : "Sentinels blend combat expertise and training in the force with a more pragmatic approach to their dutues. Sentinels embrace technologies and utilize technigques from police forces, skip tracers and spies. They rely on there quick thinking and cunning to accomplish tasks.", 
+        "skill1": "Computers",
+        "skill2": "Deception",
+        "skill3": "Knowledge (Core Worlds)",
+        "skill4": "Perception",
+        "skill5": "Skulduggery",
+        "skill6": "Stealth",
+        "specializations":[
+            {
+                "name":"Artisan",
+                "description" : "Artisans use the force to enhance and understand a machines form and function.",
+                "bonusSkill1": "Astrogation",
+                "bonusSkill2": "Computers",
+                "bonusSkill3": "Knowledge (Education)",
+                "bonusSkill4": "Mechanics",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F601659c0c31ef700119cc339&sa=D&sntz=1&usg=AOvVaw1Mv9jV0DtVTfDt-7gIxZ3s"
+            },
+
+            {
+                "name":"Shadow",
+                "description": "Shadows were a special group in the Jedi Order that helped police jedi who had fallen to the Darkside. Now they hide from the empire but still try to find ways to bring justice to criminals and even the occasional dark side force user.",
+                "bonusSkill1": "Knowledge (Underworld)",
+                "bonusSkill2": "Skulduggery",
+                "bonusSkill3": "Stealth",
+                "bonusSkill4": "Streetwise",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F60192782a8eb030011838218&sa=D&sntz=1&usg=AOvVaw39e8R4V9OOymaUEikDsrIA"
+            },
+            {
+                "name":"Shien Expert",
+                "description": "Shien experts focus on defense from ranged weapons.... basically",
+                "bonusSkill1": "Athletics",
+                "bonusSkill2": "Lightsaber",
+                "bonusSkill3": "Resilience",
+                "bonusSkill4": "Skulduggery",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F6019278aa8eb030011838219&sa=D&sntz=1&usg=AOvVaw2i3LLnfq6MlFW_Gwmu9H4Q"
+            }
+        ]
+    },
+    {
+        "career": "The Warrior",
+        "description" : "Though the most iconic weapon of many force users is the lightsaber some dedicate themselves wholly to becoming parafons of strige. ", 
+        "skill1": "Athletics",
+        "skill2": "Brawl",
+        "skill3": "Cool",
+        "skill4": "Melee",
+        "skill5": "Perception",
+        "skill6": "Survival",
+        "specializations":[
+            {
+                "name":"Aggressor",
+                "description" : "Aggressors rely on fear to intimidate his opposition into surrender or retreat.",
+                "bonusSkill1": "Coercion",
+                "bonusSkill2": "Knowledge (Underworld)",
+                "bonusSkill3": "Ranged (Light)",
+                "bonusSkill4": "Mechanics",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F601094ff9fbc800011d46d2d&sa=D&sntz=1&usg=AOvVaw2moWQfErPXzAxFYi3BVYgO"
+            },
+
+            {
+                "name":"Shii-Cho Knight",
+                "description": "Shii-Cho is typically the first lightsaber form that was taught to jedi, it focuses on the essentials of saber fighting and borrows heavily from other sword fighting techniques.",
+                "bonusSkill1": "Athletics",
+                "bonusSkill2": "Coordination",
+                "bonusSkill3": "Lightsaber",
+                "bonusSkill4": "Melee",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F5fc6c9153f910e0011f5c54e&sa=D&sntz=1&usg=AOvVaw1-RXzcuurkxTREYomFDgW0"
+            },
+            {
+                "name":"Starfighter Ace",
+                "description": "Pretty straight forward they focus on piloting starships",
+                "bonusSkill1": "Astrogation",
+                "bonusSkill2": "Gunnery",
+                "bonusSkill3": "Mechanics",
+                "bonusSkill4": "Piloting (Space)",
+                "talentTree": "https://www.google.com/url?q=https%3A%2F%2Fapp.rpgsessions.com%2Fchar%2Fffg-sw%2Fplayer%2F5ff8f9374fe3c900115c8ce4&sa=D&sntz=1&usg=AOvVaw0oneawIHCpfbmtUtIkGEAS"
+            }
+        ]
+    }
+    
+            
+]
+
+
+}
