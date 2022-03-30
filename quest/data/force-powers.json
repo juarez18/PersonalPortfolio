@@ -1,0 +1,76 @@
+
+{"forcepowers":[
+    
+    {
+        "Name": "Battle Meditation",
+        "Forcereq": "2",
+        "Forcecost": "15",
+        "Forcedesc": "Force user directs allies in battle, making them more effective as a coordinated unit"
+    },
+
+    {
+        "Name": "Bind",
+        "Forcereq": "2",
+        "Forcecost": "15",
+        "Forcedesc": "Force user restrains an enemy, preventing the target from acting. "
+    },
+
+    {
+        "Name": "Enhance",
+        "Forcereq": "1",
+        "Forcecost": "10",
+        "Forcedesc": "Enhances an various skill check with success or advantages."
+    },
+
+    {
+        "Name": "Forsee",
+        "Forcereq": "1",
+        "Forcecost": "10",
+        "Forcedesc": "Force user can feel the force flowing around everything, seeing what is and what will be."
+    },
+
+    {
+        "Name": "Heal/Harm",
+        "Forcereq": "1",
+        "Forcecost": "15",
+        "Forcedesc": "The force user bolsters his ally with renewed vigor or saps his for of vital energy."
+    },
+
+    {
+        "Name": "Influence",
+        "Forcereq": "1",
+        "Forcecost": "10",
+        "Forcedesc": "Force user may attempt to guide, shape and even twist the thoughts and feelings of others"
+    },
+
+    {
+        "Name": "Misdirect",
+        "Forcereq": "1",
+        "Forcecost": "15",
+        "Forcedesc": "The Force user creates illusions to fool those around him."
+    },
+
+    {
+        "Name": "Protect/Unleash",
+        "Forcereq": "3",
+        "Forcecost": "20",
+        "Forcedesc": "The Force user guides the flow of energy, protecting himself and others or unleashing blasts of power on his foes."
+    },
+
+    {
+        "Name": "Seek",
+        "Forcereq": "1",
+        "Forcecost": "10",
+        "Forcedesc": "The force user allows the will of the force to lead the way to something lost of forgotten."
+    },
+
+    {
+        "Name": "Sense",
+        "Forcereq": "1",
+        "Forcecost": "10",
+        "Forcedesc": "The force user can sense the force interacting with the world around him."
+    }
+    
+]
+
+}

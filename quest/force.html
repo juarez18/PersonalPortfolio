@@ -36,24 +36,25 @@
             </div>
             <div id="Morality">
                 <h3>Morality</h3>
+                <section id="overview-section">
                 <h4>Overview</h4>
                     <p>
                         Morality is simply put the measure of a Force characters Light Side and Dark Side Rating, Good vs Evil, Right and Wrong. This value changes reflecting on a character’s choices and actions as an adventure progress. 
                     </p>
+                </section>
+                <section id="process-section">
                 <h4>Process</h4>
                     <p>
                         Players can choose from the table below, while most of these Strengths and Weakness pair well together you can feel free to pair something that fits your character well. Also, if you feel like a strength and weakness that isn’t listed feel free to make your own with GM approval and the idea is fully fleshed out. Your character will start at 50 Morality.
                     </p>
+                </section>
                 <section id="morality-table">
 
                 </section>
-                <h4>Morality in Play</h4>
-                <p>
-                    During gameplay, each player is responsible for tracking his PC’s Morality at the end of each game session. A Pc’s actions during a session may increase the probability that their morality will rise or fall. Whether a PC increases or decreases is determined through conflict. 
-                    Conflict is a resource that PCs accumulate throughout a game session, the more conflict a PC accumulates, the greater the chance his morality will decrease at the end of the session. Conflict is tracked publicly by each PC player and may be tracked on the sheet or other spots. 
-                    These are the following ways that generate conflict automatically:                    
-                </p>
-                <ul>
+                <h4 id="morality-inplay-header">Morality in Play</h4>
+                <p id="morality-inplay-para">
+                    During gameplay, each player is responsible for tracking his PC’s Morality at the end of each game session. A Pc’s actions during a session may increase the probability that their morality will rise or fall. Whether a PC increases or decreases is determined through conflict. Conflict is a resource that PCs accumulate throughout a game session, the more conflict a PC accumulates, the greater the chance his morality will decrease at the end of the session. Conflict is tracked publicly by each PC player and may be tracked on the sheet or other spots. These are the following ways that generate conflict automatically:  </p>
+                <ul id="morality-ul">
                     <li>Using dark side results to generate force points when activating a force power or force talent. </li>
                     <ul>
                         <li>Any time a character uses one or more dark side results to generate force points he gains 1 conflict per dark side result.</li>
@@ -67,10 +68,10 @@
                         <li>When a force Sensitive player fails a fear check the GM can choose to have the PC suffer as much conflict as the difficulty of the check.</li>
                     </ul>
                 </ul>
-                <p>Throughout a session, a PC may gain no conflict, 10 or even more. At the end of a session, each player tallies up the conflict his character earned and then rolls a d10. Then subtract the result from the amount of conflict If the result is more then the Character gains that much morality if it is negative then they lose that much. If it is equal no change happens. </p>
-            <h4>Dark Side</h4>
-            <p>If a character’s morality drops below 30, he has crossed the dark side threshold. Being a dark side force user adds significant narrative effects to a character’s ongoing story. These effects are typically determined by the Gm or the Gm and the player. It also has mechanical effects:</p>
-            <ul>
+                <p id="conflict-para">Throughout a session, a PC may gain no conflict, 10 or even more. At the end of a session, each player tallies up the conflict his character earned and then rolls a d10. Then subtract the result from the amount of conflict If the result is more then the Character gains that much morality if it is negative then they lose that much. If it is equal no change happens. </p>
+            <h4 id="morality-darkside-header">Dark Side</h4>
+            <p id="morality-darkside-para">If a character’s morality drops below 30, he has crossed the dark side threshold. Being a dark side force user adds significant narrative effects to a character’s ongoing story. These effects are typically determined by the Gm or the Gm and the player. It also has mechanical effects:</p>
+            <ul id="darkside-ul">
                 <li>You generate Force points using Dark Side Results. </li>
                 <ul>
                     <li>Instead of using Light Side points they now must use the dark side results. If you would like to use a light side point on a force check, you must flip a destiny point and suffer strain equal to the number of force points generated. </li>
@@ -84,11 +85,11 @@
                     <li>While a character morality score is below 20, the user strain threshold is decreased by 1 and his wound threshold is increased by 1. While they are below 10, they do this again for a total of 2. </li>
                 </ul>
             </ul>
-            <p>
+            <p id="lightside-snippet">
                 When a user crosses back above 30 they are not considered light until they cross onto the light side once again at 70.
             </p>
-            <h4>Light Side</h4>
-            <p>
+            <h4 id="lightside-header">Light Side</h4>
+            <p id="lightside-para">
                 When character morality increases above 70, they are a true champion of goodness and paragon of the force. When a PC is above 70, they add 1 light side destiny point before characters start rolling. While their morality is 80 and above their strain threshold is increased by 1, and once again when they go above 90. 
             </p>
             </div>
@@ -99,8 +100,67 @@
             <div id="Careers">
                 <h3>Career and Specialization</h3>
                 <h4>Overview</h4>
-                <p></p>
+                <p>Upon choosing a Career mark the appropriate career skills and gain 1 rank in one of those 3 skills. Upon picking specialization gain 1 rank in 2 of those skills. Also, when picking a force career, you gain 1 force rating.</p>
                 <div class="forcecareers"></div>
+            </div>
+            <div id="Experience">
+                <h3>Invest Experience Points</h3>
+                <p>As far as spending Experience points goes it’s the same as with regular characters in Edge of the Empire. You can spend your experience points on: Improving Characteristics, Skill Training, Acquiring Talents, buying new specializations. Also being added is the purchase of Force Powers.</p>
+                <div id="xp-table">
+                    <table>
+                        <tr>
+                            <th>Options</th>
+                            <th>Cost</th>
+                            <th>Creation Limits</th>
+                        </tr>
+                        <tr>
+                            <td>May spend experience on characteristics. This is the only time characters can increase
+                                characteristics with experience points.</td>
+                            <td>10x the purhased rating in experience.</td>
+                            <td>May not purhase above 5 during character creation.</td>
+                        </tr>
+                        <tr>
+                            <td>May spend to purchase ranks in skills.</td>
+                            <td>5x the purhased rank in experience. Each non-career skill costs an additonal 5.</td>
+                            <td>May not purhase above 2 during character creation.</td>
+                        </tr>
+                        <tr>
+                            <td>May spend to purchase talents within specializations.</td>
+                            <td>Depends in postion in tree.</td>
+                            <td>No limits.</td>
+                        </tr>
+                        <tr>
+                            <td>May spend to purhase a new specialization.</td>
+                            <td>10x the number of purchased speicalizations including new speicalizations. Non-career
+                                specializations cost an addiontal 10xp.</td>
+                            <td>No limits.</td>
+                        </tr>
+                        <tr>
+                            <td>May spend Experience to purchase Force Powers.</td>
+                            <td>Initial purchase Force Power costs points listed in Force Power. Additional Abilities depend on position within the tree.</td>
+                            <td>No special limits.</td>
+                        </tr>
+                    </table>
+                </div>
+                <p>Everything else is the same as base game, Each character starts with 500 Credits, Please refer to <a href="https://juarez18.github.io/PersonalPortfolio/quest/investing.html">Experience Page</a> for complete finishing setup on your character. </p>
+            </div>
+            <div id="Force-Powers">
+                <h3>Force Powers</h3>
+                <h4>Overview</h4>
+                <p>Any character that starts as a force and destiny character will have a force rating of 1, anyone that doesn’t will have to gain one of the universal specializations to become force sensitive. Using the force happens in one of two ways, A user may make a force power check, they roll the force die and use the force points generated either Light side or Darkside, they then use these to activate or enhance the effect as described in the force powers. The other involves them committing a force die. While their force dice are committed to the power (as described in the power) the PC counts his force rating as one lower for each force dice committed.</p>
+                <h4>Process</h4>
+                <p>When making a force power check, the user will roll as many force die as much as there force rating, They generate white or black results. They can then activate the powers results based on their results if they are white results, they can use those freely to activate the powers and other effects this represents them calling on the light side of the force. If the results are black, they can activate these if they must: flip a destiny point to dark side, then suffers strain equal to the number of points he is using, then suffers conflict equal to the number of dark side points he decided to use. </p>
+                <h4>Force Power Purchases and Upgrades:</h4>
+                <p>Each force power requires exp to purchase the base power as well as min requirements for Force Ratings.</p>
+                <p>Strength: Strength amplifies the basic effect of the power.</p>
+                <p>Magnitude: Increases the number of target the force power affects.</p>
+                <p>Duration: Duration effects the length of time the power is active.</p>
+                <p>Range: can increase the distance from which the force power can affect targets</p>
+                <p>Control: Add new effects to force powers or modify existing effects.</p>
+                <p>Mastery: Allows you unlock an extremely potent ability for that power. </p>
+                <div class="forcepowersjs">
+
+                </div>
             </div>
         </div>
 
@@ -108,4 +168,5 @@
 </body>
 <script src="data/links.js"></script> <!-- Java Script Refenence-->
 <script src="data/forcecareers.js"></script>
+<script src="data/forcee-powers.js"></script>
 </html>
