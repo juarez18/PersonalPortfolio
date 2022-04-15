@@ -15,8 +15,8 @@ fetch(requestURL3)
         let p3 = document.createElement("p");
     
         h2.textContent = forcepowers[i].Name;
-        p1.textContent = forcepowers[i].Forcereq
-        p2.textContent = forcepowers[i].Forcecost
+        p1.textContent = "Force Rating Requirment: " + forcepowers[i].Forcereq
+        p2.textContent = "Force XP Cost: " + forcepowers[i].Forcecost
         p3.textContent = forcepowers[i].Forcedesc
         
 
