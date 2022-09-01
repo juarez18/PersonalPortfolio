@@ -49,6 +49,12 @@
         "Forcecost": "15",
         "Forcedesc": "The Force user creates illusions to fool those around him."
     },
+    {
+        "Name": "Move",
+        "Forcereq": "1",
+        "Forcecost": "10",
+        "Forcedesc": "The force user can move small objects via the power of the force"
+    },
 
     {
         "Name": "Protect/Unleash",
